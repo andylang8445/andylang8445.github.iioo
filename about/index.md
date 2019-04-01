@@ -25,7 +25,7 @@ type: about
     <dt>교내 수상</dt>
     <dd>
         <li>2018 한가람 수학 경시대회 동상</li>
-        <li>CEMC Fermat 교내 2</li>
+        <li>CEMC Fermat 교내 2위</li>
     </dd>
   </dl>
 
