@@ -1,5 +1,6 @@
 ---
 title: Posting Test
+date: 2019-04-01 13:34:00 [EST]
 categories:
  - Test
 tags:
