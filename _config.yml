@@ -4,17 +4,17 @@
 # ---------------------------------------------------------------
 
 # Site
-title: JusticeHui가 PS하는 블로그
+title: Blog posted by andylang8445
 subtitle:
 description:
-author: JeoungHui Nah
+author: Hongjun Yun
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url: 'http://justiceHui.github.io/'
+url: 'http://andylang8445.github.io/'
 baseurl: ''
 permalink: pretty
 
