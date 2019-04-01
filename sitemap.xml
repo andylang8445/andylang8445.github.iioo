@@ -10,8 +10,14 @@
 
 <url>
   <loc>https://andylang8445.github.io/</loc>
-  <lastmod>2019-04-01T13:59:13-04:00</lastmod>
+  <lastmod>2019-04-01T13:48:59-04:00</lastmod>
   <priority>1.00</priority>
+</url>
+      
+<url>
+  <loc>https://andylang8445.github.io/about/</loc>
+  <lastmod>2019-04-01T13:52:13-04:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
 </urlset>
