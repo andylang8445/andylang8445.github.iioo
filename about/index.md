@@ -19,7 +19,7 @@ type: about
     <dt>~ 중학생</dt>
     <dd>
         <li>2016 서울시 강서교육지원청 정보 영재원 산출물 대회 금상</li>
-        <li>2017 <br>NYPC</br> top 500</li>
+        <li>2017 <b>NYPC</b> top 500</li>
         <li>2017 선린 SW 영재원 산출물 대회 은상(2등)</li>
     </dd>
     <dt>교내 수상</dt>
