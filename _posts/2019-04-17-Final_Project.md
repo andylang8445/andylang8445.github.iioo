@@ -11,6 +11,7 @@ tags:
 - Computer Science
 - Project
 ---
+<h1>Final Project Doc</h1>
 
 ## Shooting Game<br>
 <hr>
