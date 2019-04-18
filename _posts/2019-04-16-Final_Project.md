@@ -17,23 +17,23 @@ tags:
 ## Shooting Game<br>
 <hr>
   <h5>System Part</h5>
-    1. Start Program<br>
-    2. Use `w`,`a`,`s`,`d` to move the `player unit`<br>
-    3. Press `l` to shoot the bullit<br>
-    4. Use 'esc' to open the option menu<br>
-    5. If the `player unit` is hit by enemy's attack<br>
-      * Decrase the health gauge<br>
-      * If there is no health left<br>
-        - End the game<br>
-        - Record the score to offline DB<br>
-      * Reset the location and status of `player unit`<br>
-      * Apply panelty in score<br>
-    6. If the enemy is hit by `player unit's` Bullit<br>
-      * Illuminate the <i>hit enemy</i><br>
-      * Make Bullit disappear<br>
-      * Increase the score<br>
-    7. If there are no enemys left<br>
-      * Increase the Level<br>
-      * Locate new enemys<br>
-    8. Display the `Real-time` Ranking<br>
-      * Update the ranking when every hit occured<br>
+    1. Start Program
+    2. Use `w`,`a`,`s`,`d` to move the `player unit`
+    3. Press `l` to shoot the bullit
+    4. Use 'esc' to open the option menu
+    5. If the `player unit` is hit by enemy's attack
+      * Decrase the health gauge
+      * If there is no health left
+        - End the game
+        - Record the score to offline DB
+      * Reset the location and status of `player unit`
+      * Apply panelty in score
+    6. If the enemy is hit by `player unit's` Bullit
+      * Illuminate the <i>hit enemy</i>
+      * Make Bullit disappear
+      * Increase the score
+    7. If there are no enemys left
+      * Increase the Level
+      * Locate new enemys
+    8. Display the `Real-time` Ranking
+      * Update the ranking when every hit occured
