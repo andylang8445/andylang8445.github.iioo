@@ -16,7 +16,7 @@ tags:
 
 ## Shooting Game<br>
 <hr>
-  <h5>System Part</h5>
+  <h4>System Part</h4>
   <pre>
    1. Start Program
    2. Use `w`,`a`,`s`,`d` to move the `player unit`
