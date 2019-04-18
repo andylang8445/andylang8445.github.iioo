@@ -23,19 +23,19 @@ tags:
    3. Press `l` to shoot the bullit
    4. Use 'esc' to open the option menu
    5. If the `player unit` is hit by enemy's attack
-     <pre>* Decrase the health gauge
+     * Decrase the health gauge
      * If there is no health left
-       <pre>- End the game
-       - Record the score to offline DB</pre>
+       - End the game
+       - Record the score to offline DB
      * Reset the location and status of `player unit`
-     * Apply panelty in score</pre>
+     * Apply panelty in score
    6. If the enemy is hit by `player unit's` Bullit
-     <pre>* Illuminate the <i>hit enemy</i>
+     * Illuminate the <i>hit enemy</i>
      * Make Bullit disappear
-     * Increase the score</pre>
+     * Increase the score
    7. If there are no enemys left
-    <pre> * Increase the Level
-     * Locate new enemys</pre>
+     * Increase the Level
+     * Locate new enemys
    8. Display the `Real-time` Ranking
-     <pre>* Update the ranking when every hit occured</pre>
+     * Update the ranking when every hit occured
      </pre>
