@@ -16,6 +16,15 @@ tags:
 
 ## Shooting Game<br>
 <hr>
+  <h3> User Part</h3>
+  <pre>
+  1. Start Program
+  2. Display Controls (`w`, `a`, `s`, `d`, `l`, `esc`,etc)
+  3. Move `player unit` around the board and destroy your enemies and try not to get hit
+  4. When you loose all the health gauge display your `final score` and `rank`
+  5. Display the Greeting Screen and goto 1.
+  </pre>
+  
   <h3> System Part</h3>
   <pre>
    1. Start Program
