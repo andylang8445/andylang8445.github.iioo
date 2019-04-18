@@ -25,7 +25,7 @@ tags:
   5. Display the Greeting Screen and goto 1.
   </pre>
   
-  <h3> System Part</h3>
+  <h3> Programmer Part</h3>
   <pre>
    1. Start Program
    2. Use `w`,`a`,`s`,`d` to move the `player unit`
