@@ -1,6 +1,6 @@
 ---
 title:  "Final Project for ICS3U"
-date:   2019-04-17 00:00:01
+date:   2019-04-29 00:00:01
 categories:
 - School Class
 - School_Grade11
@@ -84,6 +84,13 @@ tags:
        f) Display the `Real-time` Ranking
          * Update the ranking when every hit occured
    } while (health gague is not empty)
+   </pre>
+   
+   <h3> Flowchart part</h3>
+  
+  <h4>COMING SOON</h4>
+   <pre>
+   
    </pre>
 <br>
 <hr>
