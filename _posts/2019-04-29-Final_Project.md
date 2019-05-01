@@ -53,8 +53,9 @@ tags:
    1. Start Program
      * Set the basic settings
      * Print the starting screen
-     * Read the offline DB and load the ranking to the structure array
+      -Show how to play the game
      * Show the loading screen
+     * Read the offline DB and load the ranking to the structure array
    do {
        a) If keyboard is hit
          * If the key pressed is one of `w`,`a`,`s`,`d`
