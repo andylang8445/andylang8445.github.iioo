@@ -15,4 +15,14 @@ tags:
 
 <hr>
 
+## Introducing the Game<br><br>
+<pre>
+Under40 Dice Game is the game with is basically calculating the score based on the rolled dice by the user.
+</pre>
+<hr>
+
 ## Planning Part<br><br>
+<pre>
+
+</pre>
+<hr>
