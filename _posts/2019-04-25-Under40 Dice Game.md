@@ -16,7 +16,7 @@ tags:
 <hr>
 
 ## Introducing the Game<br><br>
-<pre>
+
 Under40 Dice Game is the game with is basically calculating the score based on the rolled dice by the user.
 The game continues until a person reaches the score of 1000.
 As the name of the game shows, each round continues until a person reaches the score of 40.
@@ -38,7 +38,6 @@ The rule of the game is:
      7. First player who reaches 1000 points wins.
      
      
-</pre>
 <hr>
 
 ## Planning Part<br><br>
