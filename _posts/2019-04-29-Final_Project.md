@@ -88,9 +88,7 @@ tags:
    </pre>
 
    <h3> Flowchart part</h3>
-<br>
 <hr>
-<br>
   <h3>Due Dates</h3>
    <pre>
     ■ Fix error of player shooting basic bullets: May 31st
