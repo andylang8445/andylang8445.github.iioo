@@ -86,12 +86,30 @@ tags:
          * Update the ranking when every hit occured
    } while (health gague is not empty)
    </pre>
-   
+
    <h3> Flowchart part</h3>
-  
-  <h4>COMING SOON</h4>
+<br>
+<hr>
+<br>
+  <h3>Due Dates</h3>
    <pre>
-   
+    ■ Fix error of player shooting basic bullets: May 31st
+    ■ Fix errors of enemy shooting bullets: May 31st
+    ■ Make enemy bullets to move in angles(Linear function): June 8th
+    ■ Make enemy to move: June 10th
+    ■ Display Health gauge: June 5th
+    ■ Create the option tab: June 8th
+    ■ Create differences in different level: June 10
+    ■ Create the user manual & tutorials: June 14th
+    ■ Fix other errors: June 14th
    </pre>
+<br>
+<h3>Nice to have</h3>
+ <pre>
+  ■ Real-time Ranking
+  ■ Add player name input Part
+  ■ File I/O for the offline db
+ </pre>
+
 <br>
 <hr>
