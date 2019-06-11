@@ -1,15 +1,18 @@
 ---
-title:  "Final Project for ICS3U"
+title:  "Final Project for ICS3U (Grade11 Computer Science)"
 date:   2019-05-29 00:00:01
 categories:
 - School Class
 - School_Grade11
 - Project
+- Computer Science
 tags:
 - School
 - Course
 - Computer Science
 - Project
+- Final Project
+- Final Exam
 ---
 <h1>Final Project Doc</h1>
 
