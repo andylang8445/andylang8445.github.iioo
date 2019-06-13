@@ -42,7 +42,9 @@ c. If a players score goes above 40, they bust and their score will be counted t
 <hr>
 
 ## Planning Part<br><br>
+<p>
 <pre>
 
 </pre>
+</p>
 <hr>
