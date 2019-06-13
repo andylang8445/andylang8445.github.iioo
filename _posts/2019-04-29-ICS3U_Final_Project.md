@@ -114,3 +114,20 @@ tags:
 
 <br>
 <hr>
+  <h3>Testing Chart</h3>
+  <table>
+  <tr>
+    <th>Test Name</th>
+    <th>Input</th>
+    <th>Expected Output</th>
+    <th>Actual Output</th>
+    <th>Remark</th>
+  </tr>
+  <tr>
+    <td>Moving Player</td>
+    <td>Keybord Hit</td>
+    <td>Move Player on the array and screen</td>
+    <td>Move Player on the array and screen</td>
+    <td>-</td>
+  </tr>
+</table>
