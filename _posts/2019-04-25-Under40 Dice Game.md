@@ -33,11 +33,12 @@ a. If the player scores 40 exactly, the round ends and they earn 40 times the nu
 b. The starting player in the round must roll once and may choose to stop at any time as long as there score is under 40.<br>
 c. If a players score goes above 40, they bust and their score will be counted to be awarded to the winner of the round.<br>
 4. Once the starting player stops, play passes to the left and they roll until they get a score higher than the previous player and closer to 40 or bust.<br>
-5. Round ends when one player reaches exactly a score of 40 or everyone but one person busts.<br><pre>
+5. Round ends when one player reaches exactly a score of 40 or everyone but one person busts.<br>
 6. Winner of the round accumulates points at the end of the round by the sum of all the busted player scores or if they earn exactly 40, they earn 40 times the number of players in the game for the round.<br>
 7. First player who reaches 1000 points wins.<br></p>
-     
-     
+
+
+</pre>
 <hr>
 
 ## Planning Part<br><br>
