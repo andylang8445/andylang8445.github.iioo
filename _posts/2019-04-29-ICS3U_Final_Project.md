@@ -131,7 +131,7 @@ tags:
     <td>Move Player on the array and screen</td>
     <td>Move Player on the array and screen</td>
     <td>PASS</td>
-  </tr
+  </tr>
   <tr>
     <td>June 14</td>
     <td>Player Shooting type1 Bullet</td>
