@@ -124,7 +124,7 @@ tags:
 
   <h3>Testing Chart</h3>
   <table>
-    <tr width="100">
+    <tr>
       <th><strong>Test Date</strong></th>
       <th><strong>Test Name</strong></th>
       <th><strong>Input</strong></th>
