@@ -117,6 +117,7 @@ tags:
   <h3>Testing Chart</h3>
   <table>
   <tr>
+    <th>Test Date</th>
     <th>Test Name</th>
     <th>Input</th>
     <th>Expected Output</th>
@@ -124,10 +125,20 @@ tags:
     <th>Remark</th>
   </tr>
   <tr>
+    <td>June 13</td>
     <td>Moving Player</td>
-    <td>Keybord Hit</td>
+    <td>Keybord Hit(w,a,s,d)</td>
     <td>Move Player on the array and screen</td>
     <td>Move Player on the array and screen</td>
     <td>-</td>
-  </tr>
+  </tr
+  <tr>
+    <td>June 14</td>
+    <td>Player Shooting</td>
+    <td>Keybord Hit(l)</td>
+    <td>Player Shoots bullet and moves on the array and screen</td>
+    <td>Player Shoots bullet and moves on the array and screen</td>
+    <td>-</td>
+  </tr
+
 </table>
