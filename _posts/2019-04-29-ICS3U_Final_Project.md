@@ -127,12 +127,37 @@ tags:
     </tr>
     <tr>
       <td>June 13</td>
-      <td>Moving Player</td>
-      <td>Keybord Hit (w,a,s,d)</td>
-      <td>Move Player on the array and screen</td>
-      <td>Move Player on the array and screen</td>
+      <td>Moving Player Up</td>
+      <td>Keybord Hit (w)</td>
+      <td>Move Player up until the height limitation on the array and screen</td>
+      <td>Move Player up until the height limitation on the array and screen</td>
       <td>PASS</td>
     </tr>
+    <tr>
+      <td>June 13</td>
+      <td>Moving Player Left</td>
+      <td>Keybord Hit (a)</td>
+      <td>Move Player left on the array and screen</td>
+      <td>Move Player left until the end of the map on the array and screen</td>
+      <td>PASS</td>
+    </tr>
+    <tr>
+      <td>June 13</td>
+      <td>Moving Player Down</td>
+      <td>Keybord Hit (s)</td>
+      <td>Move Player down on the array and screen</td>
+      <td>Move Player down until the end of the map on the array and screen</td>
+      <td>PASS</td>
+    </tr>
+    <tr>
+      <td>June 13</td>
+      <td>Moving Player Right</td>
+      <td>Keybord Hit (d)</td>
+      <td>Move Player right on the array and screen</td>
+      <td>Move Player right until the end of the map on the array and screen</td>
+      <td>PASS</td>
+    </tr>
+
     <tr>
       <td>June 14</td>
       <td>Player Shooting type1 Bullet</td>
