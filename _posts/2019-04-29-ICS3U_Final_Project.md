@@ -92,24 +92,31 @@ tags:
 
    <h3> Flowchart part</h3>
 <hr>
-  <h3>Due Dates</h3>
-   <pre>
-    ■ Fix error of player shooting basic bullets: May 31st
-    ■ Fix errors of enemy shooting bullets: May 31st
-    ■ Make enemy bullets to move in angles(Linear function): June 8th
-    ■ Make enemy to move: June 10th
-    ■ Display Health gauge: June 5th
-    ■ Create the option tab: June 8th
-    ■ Create differences in different level: June 10
-    ■ Create the user manual & tutorials: June 14th
-    ■ Fix other errors: June 14th
-   </pre>
+<h3>Due Dates</h3>
+ <pre>
+  ■ <del>Fix error of player shooting basic bullets: May 31st</del>
+  ■ <del>Fix errors of enemy shooting bullets: May 31st</del>
+  ■ Make enemy to move: June 10th
+  ■ <del>Display Health gauge: June 5th</del>
+  ■ Create the option tab: June 8th
+  ■ Create differences in different level: June 10
+  ■ Create the user manual & tutorials: June 14th
+  ■ Fix other errors: June 14th
+ </pre>
+<br>
+<h3>Done</h3>
+ <pre>
+  ■ Fix error of player shooting basic bullets
+  ■ Fix errors of enemy shooting bullets
+  ■ Display Health gauge
+ </pre>
 <br>
 <h3>Nice to have</h3>
  <pre>
   ■ Real-time Ranking
   ■ Add player name input Part
   ■ File I/O for the offline db
+  ■ Make enemy bullets to move in angles(Linear function)
  </pre>
 
 <br>
