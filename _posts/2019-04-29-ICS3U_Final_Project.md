@@ -130,15 +130,15 @@ tags:
     <td>Keybord Hit(w,a,s,d)</td>
     <td>Move Player on the array and screen</td>
     <td>Move Player on the array and screen</td>
-    <td>-</td>
+    <td>PASS</td>
   </tr
   <tr>
     <td>June 14</td>
-    <td>Player Shooting</td>
+    <td>Player Shooting type1 Bullet</td>
     <td>Keybord Hit(l)</td>
     <td>Player Shoots bullet and moves on the array and screen</td>
     <td>Player Shoots bullet and moves on the array and screen</td>
-    <td>-</td>
+    <td>PASS</td>
   </tr
 
 </table>
