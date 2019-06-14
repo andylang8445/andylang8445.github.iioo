@@ -139,6 +139,6 @@ tags:
     <td>Player Shoots bullet and moves on the array and screen</td>
     <td>Player Shoots bullet and moves on the array and screen</td>
     <td>PASS</td>
-  </tr
+  </tr>
 
 </table>
