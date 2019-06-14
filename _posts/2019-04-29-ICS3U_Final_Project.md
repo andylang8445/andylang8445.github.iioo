@@ -118,12 +118,12 @@ tags:
   <h3>Testing Chart</h3>
   <table>
     <tr>
-      <th>Test Date</th>
-      <th>Test Name</th>
-      <th>Input</th>
-      <th>Expected Output</th>
-      <th>Actual Output</th>
-      <th>Remark</th>
+      <th><strong>Test Date</strong></th>
+      <th><strong>Test Name</strong></th>
+      <th><strong>Input</strong></th>
+      <th><strong>Expected Output</strong></th>
+      <th><strong>Actual Output</strong></th>
+      <th><strong>Remark</strong></th>
     </tr>
     <tr>
       <td>June 13</td>
