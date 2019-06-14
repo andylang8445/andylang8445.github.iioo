@@ -124,12 +124,12 @@ tags:
 
   <h3>Testing Chart</h3>
   <table>
-    <tr>
+    <tr width="100">
       <th><strong>Test Date</strong></th>
       <th><strong>Test Name</strong></th>
       <th><strong>Input</strong></th>
-      <th width="100"><strong>Expected Output</strong></th>
-      <th width="100"><strong>Actual Output</strong></th>
+      <th><strong>Expected Output</strong></th>
+      <th><strong>Actual Output</strong></th>
       <th><strong>Remark</strong></th>
     </tr>
     <tr>
