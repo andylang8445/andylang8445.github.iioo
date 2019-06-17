@@ -47,6 +47,16 @@ tags:
   - During the manual reloading, it is possible to stop reloading and start shooting with remaining number of bullets
   - During the automatic reloading, it is impossible to stop reloading
   - Reloading each bullet will require certain amount of time
+<br>
+<br>
+
+# User Manual - Hidden Code<br>
+  <h3>Konami-Code</h3>
+  - Well known Cheat Code
+  - Also Works on this game
+    - wwssadadba on any screen
+<br>
+<br>
 
 # User Manual - Scoring<br>
   <h3>Scoring</h3>
@@ -62,11 +72,4 @@ tags:
   - If the player presses esc on setting screen, it will return to the previous screen
   - Since this is beta testing, many functions might be not stable or work
 <br>
-<br>
-
-# User Manual - Hidden Code<br>
-  <h3>Konami-Code</h3>
-  - Well known Cheat Code
-  - Also Works on this game
-    - wwssadadba on any screen
 <hr>
