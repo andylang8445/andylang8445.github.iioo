@@ -164,13 +164,52 @@ tags:
       <td>Move Player right until the end of the map on the array and screen</td>
       <td>PASS</td>
     </tr>
-
     <tr>
       <td>June 14</td>
       <td>Player Shooting type1 Bullet</td>
       <td>Keybord Hit (L)</td>
       <td>Player Shoots bullet and moves on the array and screen</td>
       <td>Player Shoots bullet and moves on the array and screen</td>
+      <td>PASS</td>
+    </tr>
+    <tr>
+      <td>June 15</td>
+      <td>Enemy Type5 Shooting Bullet</td>
+      <td>Not Required</td>
+      <td>Type5 Enemy(%) Shoots bullet down on the array and screen</td>
+      <td>Type5 Enemy(%) Shoots bullet down on the array and screen</td>
+      <td>PASS</td>
+    </tr>
+    <tr>
+      <td>June 15</td>
+      <td>Enemy Type5 Moving</td>
+      <td>Not Required</td>
+      <td>Type5 Enemy(%) moves down randomly on the array and screen</td>
+      <td>Type5 Enemy(%) moves down randomly on the array and screen</td>
+      <td>FAIL</td>
+    </tr>
+    <tr>
+      <td>June 16</td>
+      <td>Losing Score when Hit</td>
+      <td>Not Required</td>
+      <td>Player loses 25% of the total score when it gets hit by Type5 Bullet(@) has shot</td>
+      <td>Player loses 25% of the total score when it gets hit by Type5 Bullet(@) has shot</td>
+      <td>PASS</td>
+    </tr>
+    <tr>
+      <td>June 16</td>
+      <td>Gets Score when Enemy Type5(%) is Hit</td>
+      <td>Not Required</td>
+      <td>Player gets 15 point when Enemy Type5(%) gets hit by Player's Bullet(|)</td>
+      <td>Player gets 15 point when Enemy Type5(%) gets hit by Player's Bullet(|)</td>
+      <td>PASS</td>
+    </tr>
+    <tr>
+      <td>June 16</td>
+      <td>Gets Score when Enemy Type7(&) is Hit</td>
+      <td>Not Required</td>
+      <td>Player gets 25 point when Enemy Type7(&) gets hit by Player's Bullet(|)</td>
+      <td>Player gets 25 point when Enemy Type7(&) gets hit by Player's Bullet(|)</td>
       <td>PASS</td>
     </tr>
   </table>
