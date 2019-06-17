@@ -63,4 +63,10 @@ tags:
   - Since this is beta testing, many functions might be not stable or work
 <br>
 <br>
+
+# User Manual - Hidden Code<br>
+  <h3>Konami-Code</h3>
+  - Well known Cheat Code
+  - Also Works on this game
+    - wwssadadba on any screen
 <hr>
