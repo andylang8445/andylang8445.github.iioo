@@ -17,16 +17,15 @@ tags:
 ---
 <h1>Final Project User Manual Doc</h1>
 
-# User Manual - Moving
+# User Manual - Moving<br><br>
   <h3>Moving</h3>
   <pre>
   - Use 'W', 'A', 'S', 'D' to move the player
   - Player can't go above about half of the total height of the map
     - It will beep if the player tries to go above the limit
     </pre>
-    <br>
 
-# User Manual - Shooting
+# User Manual - Shooting<br><br>
   <h3>Shooting</h3>
   <pre>
   - Use 'l' to shoot the bullet to the enemy
@@ -35,9 +34,8 @@ tags:
   - The number of bullets will be constantly displayed with green color on the right down corner
   - If the player has less than 2/5 of the maximum bullet, the number of the bullets will be displayed with red color on the right down corner
   </pre>
-  <br>
 
-# User Manual - Reloading
+# User Manual - Reloading<br><br>
   <h3>Reloading</h3>
   <pre>
   - Use 'r' to start manual reloading
@@ -48,9 +46,8 @@ tags:
   - During the automatic reloading, it is impossible to stop reloading
   - Reloading each bullet will require certain amount of time
   </pre>
-  <br>
 
-# User Manual - Enemy
+# User Manual - Enemy<br><br>
   <h3>Enemy</h3>
   <pre>
   - Four general enemies will appear each round
@@ -58,12 +55,11 @@ tags:
   - If an enemy shoots the bullet, it cannot shoot for certain amount of time
   - Enemy will move until it hits the player move limit
   </pre>
-  <br>
 
-# User Manual - Scoring
+# User Manual - Scoring<br><br>
   <h3>Scoring</h3>
   <pre>
   - If the player gets hit by enemy's bullet, the player will lose certain amount of total score
   - If the player's bullet hits the enemy, the player will get a certain amount of score based on the type on enemy
   </pre>
-  <br>
+  <hr>
