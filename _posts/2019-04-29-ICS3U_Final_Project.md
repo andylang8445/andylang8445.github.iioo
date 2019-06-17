@@ -204,7 +204,7 @@ tags:
       <td>Player gets 15 point when Enemy Type5(%) gets hit by Player's Bullet(|)</td>
       <td>PASS</td>
     </tr>
-    <tr>
+    <tr bgcolor='#FF0000'>
       <td>June 16</td>
       <td>Gets Score when Enemy Type7(&) is Hit</td>
       <td>Not Required</td>
