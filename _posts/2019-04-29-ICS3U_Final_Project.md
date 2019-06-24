@@ -204,7 +204,7 @@ tags:
       <td>Player gets 15 point when Enemy Type5(%) gets hit by Player's Bullet(|)</td>
       <td>PASS</td>
     </tr>
-    <tr bgcolor='#FF0000'>
+    <tr>
       <td>June 16</td>
       <td>Gets Score when Enemy Type7(&) is Hit</td>
       <td>Not Required</td>
@@ -212,4 +212,13 @@ tags:
       <td>Player gets 25 point when Enemy Type7(&) gets hit by Player's Bullet(|)</td>
       <td>PASS</td>
     </tr>
+    <tr>
+      <td>June 24</td>
+      <td>Enemy type7 determine the path of the Bullet</td>
+      <td>Not Required</td>
+      <td>Enemy Type7(&) Calculates the linear function of the bullet to hit the player</td>
+      <td>Enemy Type7(&) Calculates the linear function of the bullet to hit the player</td>
+      <td>PASS</td>
+    </tr>
+
   </table>
