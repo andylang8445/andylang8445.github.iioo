@@ -74,7 +74,7 @@ tags:
 <br>
 <br>
 
-#User Manual - Information
+# User Manual - Information<br>
   - At the right side of the game screen, the information will appear
     - Real-time ranking
     - The number of bullets remaining
