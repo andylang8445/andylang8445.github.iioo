@@ -72,4 +72,11 @@ tags:
   - If the player presses esc on setting screen, it will return to the previous screen
   - Since this is beta testing, many functions might be not stable or work
 <br>
+<br>
+
+#User Manual - Information
+  - At the right side of the game screen, the information will appear
+    - Real-time ranking
+    - The number of bullets remaining
+    - Current player's score
 <hr>
