@@ -20,34 +20,34 @@ tags:
   <h3> User Part</h3>
   <pre>
   1. Start Program
-  2. Display Controls (`w`, `a`, `s`, `d`, `l`, `esc`, etc)
+  2. Display Controls (`w`, `a`, `s`, `d`, `l`, `esc`, etc.)
   3. Move `player unit` around the board and destroy your enemies and try not to get hit
   4. When you loose all the health gauge display your `final score` and `rank`
-  5. Display the Greeting Screen and goto 1.
+  5. Display the Greeting Screen and go to 1.
   </pre>
 
   <h3> Programmer Part</h3>
   <pre>
    1. Start Program
    2. Use `w`,`a`,`s`,`d` to move the `player unit`
-   3. Press `l` to shoot the bullit
+   3. Press `l` to shoot the bullet
    4. Use 'esc' to open the option menu
    5. If the `player unit` is hit by enemy's attack
-     * Decrase the health gauge
+     * Decrease the health gauge
      * If there is no health left
        - End the game
        - Record the score to offline DB
      * Reset the location and status of `player unit`
-     * Apply panelty in score
-   6. If the enemy is hit by `player unit's` Bullit
+     * Apply penalty in score
+   6. If the enemy is hit by `player unit's` Bullet
      * Illuminate the <i>hit enemy</i>
-     * Make Bullit disappear
+     * Make Bullet disappear
      * Increase the score
-   7. If there are no enemys left
+   7. If there are no enemy left
      * Increase the Level
-     * Locate new enemys
+     * Locate new enemies
    8. Display the `Real-time` Ranking
-     * Update the ranking when every hit occured
+     * Update the ranking when every hit occurred
      </pre>
 
    <h3> Pseudocode part</h3>
@@ -68,26 +68,26 @@ tags:
          * If the key pressed is 'esc'
            - Display the option of the game
        b) If the `player unit` is hit by enemy's attack
-         * Decrase the health gauge
+         * Decrease the health gauge
          * If there is no health left
            - End the game
            - Record the score to offline DB
          * Reset the location and status of `player unit`
-         * Apply panelty in score
-       c) If the enemy is hit by `player unit's` Bullit
+         * Apply penalty in score
+       c) If the enemy is hit by `player unit's` Bullet
          * Illuminate the <i>hit enemy</i>
-         * Make Bullit disappear
+         * Make Bullet disappear
          * Increase the score
-         * If there are no enemys left
+         * If there are no enemies left
            - Increase the Level
-           - Locate new enemys
+           - Locate new enemies
        d) If it's specific enemy's tern to shoot
          * Shoot the bullet
          * Set the cool-time timer for specific enemy to shoot bullet again
        e) Decrease the cool-time timer by 1
        f) Display the `Real-time` Ranking
-         * Update the ranking when every hit occured
-   } while (health gague is not empty)
+         * Update the ranking when every hit occurred
+   } while (health gauge is not empty)
    </pre>
 
    <h3> Flowchart part</h3>
@@ -96,11 +96,10 @@ tags:
  <pre>
   ■ <del>Fix error of player shooting basic bullets: May 31st</del>
   ■ <del>Fix errors of enemy shooting bullets: May 31st</del>
-  ■ Make enemy to move: June 10th
+  ■ <del>Make enemy to move: June 10th</del>
   ■ <del>Display Health gauge: June 5th</del>
   ■ Create the option tab: June 8th
-  ■ Create differences in different level: June 10
-  ■ Create the user manual & tutorials: June 14th
+  ■ <del>Create the user manual & tutorials: June 14th</del>
   ■ Fix other errors: June 14th
  </pre>
 <br>
@@ -109,14 +108,19 @@ tags:
   ■ Fix error of player shooting basic bullets
   ■ Fix errors of enemy shooting bullets
   ■ Display Health gauge
+  ■ Create the user manual & tutorials
+  ■ Make enemy to move(Partly done)
+  ■ Real-time Ranking
+  ■ File I/O for the offline DB
+  ■ Make enemy bullets to move in angles(Linear function) (partly done)
  </pre>
 <br>
 <h3>Nice to have</h3>
  <pre>
-  ■ Real-time Ranking
+  ■ <del>Real-time Ranking</del>
   ■ Add player name input Part
-  ■ File I/O for the offline db
-  ■ Make enemy bullets to move in angles(Linear function)
+  ■ <del>File I/O for the offline DB</del>
+  ■ <del>Make enemy bullets to move in angles(Linear function)</del>
  </pre>
 
 <br>
@@ -135,7 +139,7 @@ tags:
     <tr>
       <td>June 13</td>
       <td>Moving Player Up</td>
-      <td>Keybord Hit (w)</td>
+      <td>Keyboard Hit (w)</td>
       <td>Move Player up until the height limitation on the array and screen</td>
       <td>Move Player up until the height limitation on the array and screen</td>
       <td>PASS</td>
@@ -143,7 +147,7 @@ tags:
     <tr>
       <td>June 13</td>
       <td>Moving Player Left</td>
-      <td>Keybord Hit (a)</td>
+      <td>Keyboard Hit (a)</td>
       <td>Move Player left on the array and screen</td>
       <td>Move Player left until the end of the map on the array and screen</td>
       <td>PASS</td>
@@ -151,7 +155,7 @@ tags:
     <tr>
       <td>June 13</td>
       <td>Moving Player Down</td>
-      <td>Keybord Hit (s)</td>
+      <td>Keyboard Hit (s)</td>
       <td>Move Player down on the array and screen</td>
       <td>Move Player down until the end of the map on the array and screen</td>
       <td>PASS</td>
@@ -159,7 +163,7 @@ tags:
     <tr>
       <td>June 13</td>
       <td>Moving Player Right</td>
-      <td>Keybord Hit (d)</td>
+      <td>Keyboard Hit (d)</td>
       <td>Move Player right on the array and screen</td>
       <td>Move Player right until the end of the map on the array and screen</td>
       <td>PASS</td>
@@ -167,7 +171,7 @@ tags:
     <tr>
       <td>June 14</td>
       <td>Player Shooting type1 Bullet</td>
-      <td>Keybord Hit (L)</td>
+      <td>Keyboard Hit (L)</td>
       <td>Player Shoots bullet and moves on the array and screen</td>
       <td>Player Shoots bullet and moves on the array and screen</td>
       <td>PASS</td>
@@ -218,6 +222,14 @@ tags:
       <td>Not Required</td>
       <td>Enemy Type7(&) Calculates the linear function of the bullet to hit the player</td>
       <td>Enemy Type7(&) Calculates the linear function of the bullet to hit the player</td>
+      <td>PASS</td>
+    </tr>
+    <tr>
+      <td>June 24</td>
+      <td>File IO for DB</td>
+      <td>Not Required</td>
+      <td>Open the correct DB file and loads the ranking data</td>
+      <td>Open the correct DB file and loads the ranking data</td>
       <td>PASS</td>
     </tr>
 
