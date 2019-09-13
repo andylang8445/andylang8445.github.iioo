@@ -11,4 +11,13 @@ tags:
 - Study
 - Grade 12
 ---
-<h3>Back to Canada for 2019-2020 school year</h3>
+<h1>Back to Canada for 2019-2020 school year</h1>
+
+# Starting as Grade 12 Student
+  <h3>Course</h3>
+  - First Semester
+  <tr> <th>Grade 11 Co-op</th>
+  <tr> <td>Grade 11 Co-op</td>
+  <tr> <td>Lunch</td>
+  <tr> <td>Grade 12 Computer Science</td>
+  <tr> <td>Grade 12 Physics</td>
