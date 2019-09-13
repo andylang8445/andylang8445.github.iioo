@@ -21,3 +21,4 @@ tags:
   <tr> <td>Lunch</td>
   <tr> <td>Grade 12 Computer Science</td>
   <tr> <td>Grade 12 Physics</td>
+    - This semester is the important semester for me because it's the school year with the Grade 12 courses that matters for the university application.
