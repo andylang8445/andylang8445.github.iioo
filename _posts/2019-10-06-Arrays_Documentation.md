@@ -12,8 +12,14 @@ tags:
 - School
 ---
 <h1>Class Arrays</h1>
+<hr><hr><br>
+<h2>Method Summary<h2>
+<table>
+ <tr> <th><b>Modifier and Type</b></th> <th>Method and Description</th></tr>
+ <tr> <th><b>public static String[]</b></th> <th>createEmptyStringArray:<br><i>Creates the String array and return created array</i></th></tr>
+</table>
 <hr><br>
-
+<h2>Method Detail</h2>
 # createEmptyStringArray
 <table>
  <tr> <th><b>Method Summary</b></th> <th><b>Parameters</b></th> <th><b>Return</b></th> </tr>
