@@ -12,7 +12,7 @@ tags:
 - School
 ---
 <h1>Class Arrays</h1>
-<hr><hr><br>
+<hr><br>
 <h2>Method Summary<h2>
 <table>
  <tr> <th><b>Modifier and Type</b></th> <th>Method and Description</th></tr>
