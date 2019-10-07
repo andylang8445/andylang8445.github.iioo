@@ -29,5 +29,5 @@ tags:
 # array_contains
 <table>
  <tr> <th><b>Method Summary</b></th> <th><b>Parameters</b></th> <th><b>Return</b></th> </tr>
- <tr> <th><b>public static void array_contains:</b><br><i>Prints if String array contains the String element</i></th> <th><b>String[] array:</b><br><i>The String array that is being searched from</i><br>String element:<br>The String element that the method is looking for in the array</th> <th><i>N/A</i></th> </tr>
+ <tr> <th><b>public static void array_contains:</b><br><i>Prints if String array contains the String element</i></th> <th><b>String[] array:</b><br><i>The String array that is being searched from</i><br>String element:<br><i>The String element that the method is looking for in the array</i></th> <th><i>N/A</i></th> </tr>
 </table>
