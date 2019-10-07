@@ -25,3 +25,9 @@ tags:
  <tr> <th><b>Method Summary</b></th> <th><b>Parameters</b></th> <th><b>Return</b></th> </tr>
  <tr> <th><b>public static void printArray:</b><br><i>Prints the String array from parameter</i></th> <th><b>String[] array:</b><br><i>The String array that is being required to print</i></th> <th><i>N/A</i></th> </tr>
 </table>
+
+# array_contains
+<table>
+ <tr> <th><b>Method Summary</b></th> <th><b>Parameters</b></th> <th><b>Return</b></th> </tr>
+ <tr> <th><b>public static void array_contains:</b><br><i>Prints if String array contains the String element</i></th> <th><b>String[] array:</b><br><i>The String array that is being searched from</i><br>String element:<br>The String element that the method is looking for in the array</th> <th><i>N/A</i></th> </tr>
+</table>
