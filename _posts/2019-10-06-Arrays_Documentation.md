@@ -17,7 +17,7 @@ tags:
 # createEmptyStringArray
 <table>
  <tr> <th>**Method Summary**</th> <th>**Parameters**</th> <th>**Return**</th> </tr>
- <tr> <th>**public static String[] createEmptyStringArray:**<br>Creates the the String array and return created array</th> <th>**int array_size:**<br>The size of the array the user want to create</th> <th>Created String type array with Parameters</th> </tr>
+ <tr> <th>**public static String[] createEmptyStringArray:**<br>_Creates the the String array and return created array_</th> <th>**int array_size:**<br>_The size of the array the user want to create_</th> <th>_Created String type array with Parameters_</th> </tr>
  <tr> <th>Method Summary</th> <th>Parameters</th> <th>Return</th> </tr>
  <tr> <th>Method Summary</th> <th>Parameters</th> <th>Return</th> </tr>
  <tr> <th>Method Summary</th> <th>Parameters</th> <th>Return</th> </tr>
