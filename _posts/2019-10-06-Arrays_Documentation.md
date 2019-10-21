@@ -12,8 +12,8 @@ tags:
 - School
 ---
 <h1>Class Arrays</h1>
-
 <hr>
+
 <h2>Method Summary<h2>
   <table>
    <tr> <th><b>Modifier and Type</b></th> <th>Method and Description</th></tr>
