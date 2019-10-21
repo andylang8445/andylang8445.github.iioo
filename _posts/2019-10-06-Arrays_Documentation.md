@@ -45,6 +45,14 @@ tags:
 <tr> <th><b>public static void print_array:</b><br><i>Print the values of integer array from parameter</i></th> <th><b>int[] array:</b><br><i>The array the user wants to print to the screen and file</i></th> <th><i>Created int type array with value</i></th> </tr>
 </table>
 
+<h4>search_value</h4>
+<table>
+<tr> <th><b>Method Summary</b></th> <th><b>Parameters</b></th> <th><b>Return</b></th> </tr>
+<tr> <th><b>public static int search_value:</b><br><i>Print the values of integer array from parameter</i></th> <th><b>int[] array:</b><i>The array looking for the value</i><b>int target:</b><i>The value that the program is looking for</i><b>boolean mode:</b><i>Select if the user wants to print out every log or not</i><br></th> <th><i>Created int type array with value</i></th> </tr>
+</table>
+
+
+
 
 <!--String-->
  <h4>createEmptyStringArray</h4>
