@@ -48,7 +48,7 @@ tags:
 <h4>search_value</h4>
 <table>
 <tr> <th><b>Method Summary</b></th> <th><b>Parameters</b></th> <th><b>Return</b></th> </tr>
-<tr> <th><b>public static int search_value:</b><br><i>Print the values of integer array from parameter</i></th> <th><b>int[] array:</b><i>The array looking for the value</i><b>int target:</b><i>The value that the program is looking for</i><b>boolean mode:</b><i>Select if the user wants to print out every log or not</i><br></th> <th><i>Created int type array with value</i></th> </tr>
+<tr> <th><b>public static int search_value:</b><br><i>Print the values of integer array from parameter</i></th> <th><b>int[] array:</b><i>The array looking for the value</i><b>int target:</b><i>The value that the program is looking for</i><b>boolean mode:</b><i>Select if the user wants to print out every log or not</i><br></th> <th><i>if the value exists in the array, return the location and if not, return -1</i></th> </tr>
 </table>
 
 
