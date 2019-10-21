@@ -30,8 +30,15 @@ tags:
 <h4>user_defined_array</h4>
 <table>
 <tr> <th><b>Method Summary</b></th> <th><b>Parameters</b></th> <th><b>Return</b></th> </tr>
-<tr> <th><b>public static int[] user_defined_array:</b><br><i>Creates the new integer array with user defined values and return the array using makeArray method</i></th> <th><b>NA</b><br></th> <th><i>Created int type array with value</i></th> </tr>
+<tr> <th><b>public static int[] user_defined_array:</b><br><i>Creates the new integer array with user defined values and return the array using makeArray method</i></th> <th><b>NA</b><br></th> <th><i>Created int type array with value that user entered</i></th> </tr>
 </table>
+
+<h4>random_array</h4>
+<table>
+<tr> <th><b>Method Summary</b></th> <th><b>Parameters</b></th> <th><b>Return</b></th> </tr>
+<tr> <th><b>public static int[] random_array:</b><br><i>Creates the new integer array with random values and return the array using makeArray method</i></th> <th><b>NA</b><br></th> <th><i>Created int type array with random value</i></th> </tr>
+</table>
+
 
 <!--String-->
  <h4>createEmptyStringArray</h4>
