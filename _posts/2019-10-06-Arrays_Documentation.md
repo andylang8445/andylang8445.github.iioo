@@ -51,7 +51,11 @@ tags:
 <tr> <th><b>public static int search_value:</b><br><i>Print the values of integer array from parameter</i></th> <th><b>int[] array:</b><i>The array looking for the value</i><b>int target:</b><i>The value that the program is looking for</i><b>boolean mode:</b><i>Select if the user wants to print out every log or not</i><br></th> <th><i>if the value exists in the array, return the location and if not, return -1</i></th> </tr>
 </table>
 
-
+<h4>element_count</h4>
+<table>
+<tr> <th><b>Method Summary</b></th> <th><b>Parameters</b></th> <th><b>Return</b></th> </tr>
+<tr> <th><b>public static void element_count:</b><br><i>return the number of the specific element provided by the parameter that appears in the array</i></th> <th><b>int[] array:</b><i>The array looking for the value</i><b>int target:</b><i>The value that the program is looking for</i><br></th> <th><i>return the number of the element appears in the array</i></th> </tr>
+</table>
 
 <!--String-->
  <h4>createEmptyStringArray</h4>
