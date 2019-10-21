@@ -75,6 +75,12 @@ tags:
 <tr> <th><b>public static int[] selection_sort_array:</b><br><i>return the sorted array of the original array</i></th> <th><b>int[] array_original:</b><i>The original array that the program is sorting using the values using selection sort algorithm</i><b>boolean respond_option:</b><i>select if the program is printing the log of the operation or not</i><br></th> <th><i>return the sorted array</i></th> </tr>
 </table>
 
+<h4>largest_element</h4>
+<table>
+<tr> <th><b>Method Summary</b></th> <th><b>Parameters</b></th> <th><b>Return</b></th> </tr>
+<tr> <th><b>public static int largest_element:</b><br><i>return the largest number in array</i></th> <th><b>int[] array:</b><i>The array that the program is looking for the largest value</i><br></th> <th><i>return the maximum value in the array</i></th> </tr>
+</table>
+
 
 
 
