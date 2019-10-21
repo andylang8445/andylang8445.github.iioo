@@ -81,6 +81,12 @@ tags:
 <tr> <th><b>public static int largest_element:</b><br><i>return the largest number in array</i></th> <th><b>int[] array:</b><i>The array that the program is looking for the largest value</i><br></th> <th><i>return the maximum value in the array</i></th> </tr>
 </table>
 
+<h4>smallest_value</h4>
+<table>
+<tr> <th><b>Method Summary</b></th> <th><b>Parameters</b></th> <th><b>Return</b></th> </tr>
+<tr> <th><b>public static int smallest_value:</b><br><i>return the smallest number in array</i></th> <th><b>int[] array:</b><i>The array that the program is looking for the smallest value</i><br></th> <th><i>return the minimum value in the array</i></th> </tr>
+</table>
+
 
 
 
