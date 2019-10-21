@@ -11,7 +11,8 @@ tags:
 - Programing
 - School
 ---
-<h2>Class Arrays</h2>
+<h1>Class Arrays</h1>
+
 <hr>
 <h2>Method Summary<h2>
   <table>
