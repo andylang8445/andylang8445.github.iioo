@@ -39,6 +39,12 @@ tags:
 <tr> <th><b>public static int[] random_array:</b><br><i>Creates the new integer array with random values and return the array using makeArray method</i></th> <th><b>NA</b><br></th> <th><i>Created int type array with random value</i></th> </tr>
 </table>
 
+<h4>print_array</h4>
+<table>
+<tr> <th><b>Method Summary</b></th> <th><b>Parameters</b></th> <th><b>Return</b></th> </tr>
+<tr> <th><b>public static void print_array:</b><br><i>Print the values of integer array from parameter</i></th> <th><b>int[] array:</b><br><i>The array the user wants to print to the screen and file</i></th> <th><i>Created int type array with value</i></th> </tr>
+</table>
+
 
 <!--String-->
  <h4>createEmptyStringArray</h4>
