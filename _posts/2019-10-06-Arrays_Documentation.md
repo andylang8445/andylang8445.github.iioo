@@ -69,6 +69,14 @@ tags:
 <tr> <th><b>public static int[] insert_element:</b><br><i>return the new array with all the values from original array and additional value using change_size_of_array method</i></th> <th><b>int[] array:</b><i>The original array that the program is inserting the value to</i><b>int target:</b><i>the value that the program is inserting to the array</i><b>int index:</b><i>The location that the program is inserting the value into the array</i><br></th> <th><i>return the new array with the value inserted to the original array</i></th> </tr>
 </table>
 
+<h4>selection_sort_array</h4>
+<table>
+<tr> <th><b>Method Summary</b></th> <th><b>Parameters</b></th> <th><b>Return</b></th> </tr>
+<tr> <th><b>public static int[] selection_sort_array:</b><br><i>return the sorted array of the original array</i></th> <th><b>int[] array_original:</b><i>The original array that the program is sorting using the values using selection sort algorithm</i><b>boolean respond_option:</b><i>select if the program is printing the log of the operation or not</i><br></th> <th><i>return the sorted array</i></th> </tr>
+</table>
+
+
+
 
 <!--String-->
  <h4>createEmptyStringArray</h4>
