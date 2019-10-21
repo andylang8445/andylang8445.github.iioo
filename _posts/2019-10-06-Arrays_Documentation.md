@@ -63,6 +63,12 @@ tags:
 <tr> <th><b>public static int[] change_size_of_array:</b><br><i>return the new array with all the values from original array but with different size</i></th> <th><b>int[] original_array:</b><i>The original array that the program is resizing</i><b>int operation:</b><i>Decides if the program is expanding the size or making it smaller</i><b>int hole:</b><i>Set the location of the empty spot when the program is expanding the size of the array</i><br></th> <th><i>return the new array that is resized from the original array</i></th> </tr>
 </table>
 
+<h4>insert_element</h4>
+<table>
+<tr> <th><b>Method Summary</b></th> <th><b>Parameters</b></th> <th><b>Return</b></th> </tr>
+<tr> <th><b>public static int[] insert_element:</b><br><i>return the new array with all the values from original array and additional value using change_size_of_array method</i></th> <th><b>int[] array:</b><i>The original array that the program is resizing</i><b>int target:</b><i>Decides if the program is expanding the size or making it smaller</i><b>int index:</b><i>Set the location of the empty spot when the program is expanding the size of the array</i><br></th> <th><i>return the new array that is resized from the original array</i></th> </tr>
+</table>
+
 
 <!--String-->
  <h4>createEmptyStringArray</h4>
