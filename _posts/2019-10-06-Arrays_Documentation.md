@@ -57,6 +57,13 @@ tags:
 <tr> <th><b>public static void element_count:</b><br><i>return the number of the specific element provided by the parameter that appears in the array</i></th> <th><b>int[] array:</b><i>The array looking for the value</i><b>int target:</b><i>The value that the program is looking for</i><br></th> <th><i>return the number of the element appears in the array</i></th> </tr>
 </table>
 
+<h4>change_size_of_array</h4>
+<table>
+<tr> <th><b>Method Summary</b></th> <th><b>Parameters</b></th> <th><b>Return</b></th> </tr>
+<tr> <th><b>public static int[] change_size_of_array:</b><br><i>return the new array with all the values from original array but with different size</i></th> <th><b>int[] original_array:</b><i>The original array that the program is resizing</i><b>int operation:</b><i>Decides if the program is expanding the size or making it smaller</i><b>int hole:</b><i>Set the location of the empty spot when the program is expanding the size of the array</i><br></th> <th><i>return the new array that is resized from the original array</i></th> </tr>
+</table>
+
+
 <!--String-->
  <h4>createEmptyStringArray</h4>
 <table>
