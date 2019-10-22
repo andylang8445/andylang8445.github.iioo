@@ -157,4 +157,14 @@ tags:
  <tr> <th><b>public static int findSmallest:</b><br><i>return the smallest value based on the alphabetical order</i></th> <th><b>String[] array:</b><br><i>The String array that the program is searching the smallest value</i></th> <th><i>return the index of the smallest element of the array</i></th> </tr>
 </table>
 
+<h4>change_size_of_array</h4>
+<table>
+ <tr> <th><b>Method Summary</b></th> <th><b>Parameters</b></th> <th><b>Return</b></th> </tr>
+ <tr> <th><b>public static String[] change_size_of_array:</b><br><i>return the resized array with all the elements from the original array and deleted the specific value when it is in delete mode and return the resized array with one additional empty position at specific location the user required to insert new element</i></th> <th><b>String[] original_array:</b><br><i>The original String array that the program is resizing</i><b>in operation:</b><br><i>The operation that the program is operating (insert or delete)</i><b>String target:</b><br><i>The String element that the program is deleteing or inserting to the original array</i><b>int hole:</b><br><i>The location that the program is inserting the new element to original array</i></th> <th><i>return the new String array with the elements that the user required to have</i></th> </tr>
+</table>
 
+<h4>insert</h4>
+<table>
+ <tr> <th><b>Method Summary</b></th> <th><b>Parameters</b></th> <th><b>Return</b></th> </tr>
+ <tr> <th><b>public static String[] insert:</b><br><i>return the smallest value based on the alphabetical order</i></th> <th><b>String[] array:</b><br><i>The String array that the program is searching the smallest value</i></th> <th><i>return the index of the smallest element of the array</i></th> </tr>
+</table>
