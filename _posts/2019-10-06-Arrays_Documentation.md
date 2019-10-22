@@ -118,17 +118,43 @@ tags:
 <h4>user_defined_array</h4>
 <table>
 <tr> <th><b>Method Summary</b></th> <th><b>Parameters</b></th> <th><b>Return</b></th> </tr>
-<tr> <th><b>public static String[] user_defined_array:</b><br><i>Creates the new String array with user defined values and return the array using makeArray method. Print the log into the file</i></th> <th><b>PrintWriter myOutput</b><br></th> <th><i>Created String type array with value that user entered, and print all the logs into the file</i></th> </tr>
+<tr> <th><b>public static String[] user_defined_array:</b><br><i>Creates the new String array using createEmptyStringArray and fill with user defined values and return the array using makeArray method. Print the log into the file</i><b>PrintWriter myOutput</b><i>Allow the program to print to external file</i></th> <th><br></th> <th><i>Created String type array with value that user entered, and print all the logs into the file</i></th> </tr>
 </table>
 
 <h4>printArray</h4>
 <table>
  <tr> <th><b>Method Summary</b></th> <th><b>Parameters</b></th> <th><b>Return</b></th> </tr>
- <tr> <th><b>public static void printArray:</b><br><i>Prints the String array from parameter</i></th> <th><b>String[] array:</b><br><i>The String array that is being required to print</i></th> <th><i>N/A</i></th> </tr>
+ <tr> <th><b>public static void printArray:</b><br><i>Prints the String array from parameter</i></th> <th><b>String[] array:</b><br><i>The String array that is being required to print</i><b>PrintWriter myOutput</b><i>Allow the program to print to external file</i></th> <th><i>N/A</i></th> </tr>
 </table>
 
 <h4>array_contains</h4>
 <table>
  <tr> <th><b>Method Summary</b></th> <th><b>Parameters</b></th> <th><b>Return</b></th> </tr>
- <tr> <th><b>public static void array_contains:</b><br><i>Prints if String array contains the String element</i></th> <th><b>String[] array:</b><br><i>The String array that is being searched from</i><br>String element:<br><i>The String element that the method is looking for in the array</i></th> <th><i>N/A</i></th> </tr>
+ <tr> <th><b>public static void array_contains:</b><br><i>Prints if String array contains the String element</i></th> <th><b>String[] array:</b><br><i>The String array that is being searched from</i><br><b>String element:</b><i>The String element that the method is looking for in the array</i><b>PrintWriter myOutput</b><i>Allow the program to print to external file</i></th> <th><i>N/A</i></th> </tr>
 </table>
+
+<h4>findElement</h4>
+<table>
+ <tr> <th><b>Method Summary</b></th> <th><b>Parameters</b></th> <th><b>Return</b></th> </tr>
+ <tr> <th><b>public static int findElement:</b><br><i>return the value based on if the element exists in the String array</i></th> <th><b>String[] array:</b><br><i>The String array that is being searched from</i><br><b>String element:</b><i>The String element that the method is looking for in the array</i></th> <th><i>return 1 if the element exists, and return -1 if the element does not exists</i></th> </tr>
+</table>
+
+<h4>findElement_loc</h4>
+<table>
+ <tr> <th><b>Method Summary</b></th> <th><b>Parameters</b></th> <th><b>Return</b></th> </tr>
+ <tr> <th><b>public static int findElement_loc:</b><br><i>return the value based on if the element exists in the String array</i></th> <th><b>String[] array:</b><br><i>The String array that is being searched from</i><b>String element:</b><i>The String element that the method is looking for in the array</i></th> <th><i>return the index of the element's location if the element exists in the array, and return -1 if the element does not exists</i></th> </tr>
+</table>
+
+<h4>findLargest</h4>
+<table>
+ <tr> <th><b>Method Summary</b></th> <th><b>Parameters</b></th> <th><b>Return</b></th> </tr>
+ <tr> <th><b>public static int findLargest:</b><br><i>return the largest value based on the alphabetical order</i></th> <th><b>String[] array:</b><br><i>The String array that the program is searching the largest value</i></th> <th><i>return the index of the largest element of the array</i></th> </tr>
+</table>
+
+<h4>findSmallest</h4>
+<table>
+ <tr> <th><b>Method Summary</b></th> <th><b>Parameters</b></th> <th><b>Return</b></th> </tr>
+ <tr> <th><b>public static int findSmallest:</b><br><i>return the smallest value based on the alphabetical order</i></th> <th><b>String[] array:</b><br><i>The String array that the program is searching the smallest value</i></th> <th><i>return the index of the smallest element of the array</i></th> </tr>
+</table>
+
+
