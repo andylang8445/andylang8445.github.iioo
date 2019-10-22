@@ -99,6 +99,12 @@ tags:
 <tr> <th><b>public static int[] make_copied_array:</b><br><i>return the new array with all the values from original array</i></th> <th><b>int[] array:</b><i>The original array that the program is copying the value from</i><br></th> <th><i>return the new array with the identical value copied from the original array</i></th> </tr>
 </table>
 
+<h4>identical</h4>
+<table>
+<tr> <th><b>Method Summary</b></th> <th><b>Parameters</b></th> <th><b>Return</b></th> </tr>
+<tr> <th><b>public static boolean identical:</b><br><i>return true when two arrays are identical to each other and if not, return false</i></th> <th><b>int[] array1:</b><i>The first array that the program is comparing</i><b>int[] array2:</b><i>The second array that the program is comparing</i><br></th> <th><i>return true when two integer arrays are identical and if not, return false</i></th> </tr>
+</table>
+
 
 
 
