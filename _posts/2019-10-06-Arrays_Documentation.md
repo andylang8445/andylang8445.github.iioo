@@ -21,6 +21,7 @@ tags:
   </table>
 <hr>
 <h1>Method Detail</h1>
+<!--Integer-->
 <h4>makeArray</h4>
 <table>
 <tr> <th><b>Method Summary</b></th> <th><b>Parameters</b></th> <th><b>Return</b></th> </tr>
@@ -104,9 +105,6 @@ tags:
 <tr> <th><b>Method Summary</b></th> <th><b>Parameters</b></th> <th><b>Return</b></th> </tr>
 <tr> <th><b>public static boolean identical:</b><br><i>return true when two arrays are identical to each other and if not, return false</i></th> <th><b>int[] array1:</b><i>The first array that the program is comparing</i><b>int[] array2:</b><i>The second array that the program is comparing</i><br></th> <th><i>return true when two integer arrays are identical and if not, return false</i></th> </tr>
 </table>
-
-
-
 
 <!--String-->
  <h4>createEmptyStringArray</h4>
