@@ -175,3 +175,26 @@ tags:
  <tr> <th><b>public static String[] removeElementByItem:</b><br><i>return the new array with the element deleted from the original array using change_size_of_array</i></th> <th><b>String[] array:</b><br><i>The String array that the program is deleting the element from</i><b>Strin target:</b><br><i>The String element that the program is deleting from the array</i><b>PrintWrite myOutput:</b><br><i>The PrintWriter element that allows the method to output to the external file</i></th> <th><i>return the new String array with the element deleted to the original array</i></th> </tr>
 </table>
 
+<h4>duplicateArray</h4>
+<table>
+ <tr> <th><b>Method Summary</b></th> <th><b>Parameters</b></th> <th><b>Return</b></th> </tr>
+ <tr> <th><b>public static String[] duplicateArray:</b><br><i>return the new copied array</i></th> <th><b>String[] array:</b><br><i>The String array that the program is duplicating from</i></th> <th><i>return the new String array with duplicated size and values from the original array from the parameter</i></th> </tr>
+</table>
+
+<h4>sameArray</h4>
+<table>
+ <tr> <th><b>Method Summary</b></th> <th><b>Parameters</b></th> <th><b>Return</b></th> </tr>
+ <tr> <th><b>public static boolean sameArray:</b><br><i>return true when two String arrays are identical to each other, and false when two arrays are different from each other</i></th> <th><b>String[] array1:</b><br><i>The frist String array that the program is comparing</i><b>String[] array2:</b><br><i>The second String array that the program is comparing</i></th> <th><i>return true value when two String arrays are identical, and false if they are not identical</i></th> </tr>
+</table>
+
+<h4>reverse</h4>
+<table>
+ <tr> <th><b>Method Summary</b></th> <th><b>Parameters</b></th> <th><b>Return</b></th> </tr>
+ <tr> <th><b>public static String[] reverse:</b><br><i>return the new String array with the location of the elements are reveresed</i></th> <th><b>String[] array:</b><br><i>The String array that the program is reversing the elemets' location</i><b>PrintWriter myOutput:</b><br><i>Allow the program to print to external file</i></th> <th><i>return the new String array with the elemets' location in the array reversed</i></th> </tr>
+</table>
+
+<h4>countElement</h4>
+<table>
+ <tr> <th><b>Method Summary</b></th> <th><b>Parameters</b></th> <th><b>Return</b></th> </tr>
+ <tr> <th><b>public static int countElement:</b><br><i>return the number of specific elemet appearing in the String array</i></th> <th><b>String[] array:</b><br><i>The String array that the program is counting the number of appearance from</i><b>String target:</b><br><i>The String element that the program is looking for in the String array</i></th> <th><i>return the number of the String element appearing in the String array</i></th> </tr>
+</table>
