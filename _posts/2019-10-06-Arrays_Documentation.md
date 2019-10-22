@@ -106,11 +106,19 @@ tags:
 <tr> <th><b>public static boolean identical:</b><br><i>return true when two arrays are identical to each other and if not, return false</i></th> <th><b>int[] array1:</b><i>The first array that the program is comparing</i><b>int[] array2:</b><i>The second array that the program is comparing</i><br></th> <th><i>return true when two integer arrays are identical and if not, return false</i></th> </tr>
 </table>
 
+
+
 <!--String-->
  <h4>createEmptyStringArray</h4>
 <table>
  <tr> <th><b>Method Summary</b></th> <th><b>Parameters</b></th> <th><b>Return</b></th> </tr>
 <tr> <th><b>public static String[] createEmptyStringArray:</b><br><i>Creates the String array and return created array</i></th> <th><b>int array_size:</b><br><i>The size of the array the user want to create</i></th> <th><i>Created String type array with Parameters</i></th> </tr>
+</table>
+
+<h4>user_defined_array</h4>
+<table>
+<tr> <th><b>Method Summary</b></th> <th><b>Parameters</b></th> <th><b>Return</b></th> </tr>
+<tr> <th><b>public static String[] user_defined_array:</b><br><i>Creates the new String array with user defined values and return the array using makeArray method. Print the log into the file</i></th> <th><b>PrintWriter myOutput</b><br></th> <th><i>Created String type array with value that user entered, and print all the logs into the file</i></th> </tr>
 </table>
 
 <h4>printArray</h4>
