@@ -166,5 +166,12 @@ tags:
 <h4>insert</h4>
 <table>
  <tr> <th><b>Method Summary</b></th> <th><b>Parameters</b></th> <th><b>Return</b></th> </tr>
- <tr> <th><b>public static String[] insert:</b><br><i>return the smallest value based on the alphabetical order</i></th> <th><b>String[] array:</b><br><i>The String array that the program is searching the smallest value</i></th> <th><i>return the index of the smallest element of the array</i></th> </tr>
+ <tr> <th><b>public static String[] insert:</b><br><i>return the new array with the new element inserted using change_size_of_array</i></th> <th><b>String[] array:</b><br><i>The String array that the program is inserting the array to</i><b>Strin target:</b><br><i>The String element that the program is inserting to the array</i><b>int location:</b><br><i>The index that the program is inserting the element into  array</i><b>PrintWrite myOutput:</b><br><i>The PrintWriter element that allows the method to output to the external file</i></th> <th><i>return the index of the smallest element of the array</i></th> </tr>
 </table>
+
+<h4>delete_elemet</h4>
+<table>
+ <tr> <th><b>Method Summary</b></th> <th><b>Parameters</b></th> <th><b>Return</b></th> </tr>
+ <tr> <th><b>public static String[] insert:</b><br><i>return the new array with the new element inserted using change_size_of_array</i></th> <th><b>String[] array:</b><br><i>The String array that the program is inserting the array to</i><b>Strin target:</b><br><i>The String element that the program is inserting to the array</i><b>int location:</b><br><i>The index that the program is inserting the element into  array</i><b>PrintWrite myOutput:</b><br><i>The PrintWriter element that allows the method to output to the external file</i></th> <th><i>return the index of the smallest element of the array</i></th> </tr>
+</table>
+
