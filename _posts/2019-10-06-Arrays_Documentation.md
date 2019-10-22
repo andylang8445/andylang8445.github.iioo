@@ -87,6 +87,12 @@ tags:
 <tr> <th><b>public static int smallest_value:</b><br><i>return the smallest number in array</i></th> <th><b>int[] array:</b><i>The array that the program is looking for the smallest value</i><br></th> <th><i>return the minimum value in the array</i></th> </tr>
 </table>
 
+<h4>delete_element</h4>
+<table>
+<tr> <th><b>Method Summary</b></th> <th><b>Parameters</b></th> <th><b>Return</b></th> </tr>
+<tr> <th><b>public static int[] delete_element:</b><br><i>return the new array with all the values from original array and the selected value deleted using change_size_of_array method and search_value method</i></th> <th><b>int[] array:</b><i>The original array that the program is deleting the value from</i><b>int target:</b><i>the value that the program is deleting from the array</i><br></th> <th><i>return the new array with the value inserted to the original array</i></th> </tr>
+</table>
+
 
 
 
