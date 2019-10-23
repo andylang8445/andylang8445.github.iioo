@@ -17,7 +17,25 @@ tags:
 <h1>Method Summary</h1>
   <table>
    <tr> <th><b>Modifier and Type</b></th> <th>Method and Description</th></tr>
+   
+   <tr> <th><b>public static int[]</b></th> <th>makeArray:<br><i>Creates the new integer array and return created array</i></th></tr>
+   <tr> <th><b>public static int[]</b></th> <th>user_defined_array:<br><i>Creates the new integer array with user defined values and return the array using makeArray method</i></th></tr>
+   <tr> <th><b>public static int[]</b></th> <th>random_array:<br><i>Creates the new integer array with random values and return the array using makeArray method</i></th></tr>
+   <tr> <th><b>public static void</b></th> <th>print_array:<br><i>Print the values of integer array from parameter</i></th></tr>
+   <tr> <th><b>public static int</b></th> <th>search_value:<br><i>Search the value from the array</i></th></tr>
+   <tr> <th><b>public static void</b></th> <th>element_count:<br><i>return the number of the specific element provided by the parameter that appears in the array</i></th></tr>
+   <tr> <th><b>public static int[]</b></th> <th>change_size_of_array:<br><i>return the new array with all the values from original array but with different size</i></th></tr>
+   <tr> <th><b>public static int[]</b></th> <th>insert_element:<br><i>return the new array with all the values from original array and additional value using change_size_of_array method</i></th></tr>
+   <tr> <th><b>public static int[]</b></th> <th>selection_sort_array:<br><i>return the sorted array of the original array</i></th></tr>
+   <tr> <th><b>public static int</b></th> <th>largest_element:<br><i>return the largest number in array</i></th></tr>
+   <tr> <th><b>public static int</b></th> <th>smallest_value:<br><i>return the smallest number in array</i></th></tr>
+   <tr> <th><b>public static int[]</b></th> <th>delete_element:<br><i>return the new array with all the values from original array and the selected value deleted using change_size_of_array method and search_value method</i></th></tr>
+   <tr> <th><b>public static int[]</b></th> <th>make_copied_array:<br><i>return the new array with all the values from original array</i></th></tr>
+   <tr> <th><b>public static boolean</b></th> <th>identical:<br><i>return true when two arrays are identical to each other and if not, return false</i></th></tr>
+   
    <tr> <th><b>public static String[]</b></th> <th>createEmptyStringArray:<br><i>Creates the String array and return created array</i></th></tr>
+   
+   
   </table>
 <hr>
 <h1>Method Detail</h1>
@@ -49,7 +67,7 @@ tags:
 <h4>search_value</h4>
 <table>
 <tr> <th><b>Method Summary</b></th> <th><b>Parameters</b></th> <th><b>Return</b></th> </tr>
-<tr> <th><b>public static int search_value:</b><br><i>Print the values of integer array from parameter</i></th> <th><b>int[] array:</b><i>The array looking for the value</i><b>int target:</b><i>The value that the program is looking for</i><b>boolean mode:</b><i>Select if the user wants to print out every log or not</i><br></th> <th><i>if the value exists in the array, return the location and if not, return -1</i></th> </tr>
+<tr> <th><b>public static int search_value:</b><br><i>Search the value from the array</i></th> <th><b>int[] array:</b><i>The array looking for the value</i><b>int target:</b><i>The value that the program is looking for</i><b>boolean mode:</b><i>Select if the user wants to print out every log or not</i><br></th> <th><i>if the value exists in the array, return the location and if not, return -1</i></th> </tr>
 </table>
 
 <h4>element_count</h4>
