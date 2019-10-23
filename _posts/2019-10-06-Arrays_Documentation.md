@@ -34,6 +34,22 @@ tags:
    <tr> <th><b>public static boolean</b></th> <th>identical:<br><i>return true when two arrays are identical to each other and if not, return false</i></th></tr>
    
    <tr> <th><b>public static String[]</b></th> <th>createEmptyStringArray:<br><i>Creates the String array and return created array</i></th></tr>
+   <tr> <th><b>public static String[]</b></th> <th>user_defined_array:<br><i>Creates the new String array using createEmptyStringArray and fill with user defined values and return the array using makeArray method. Print the log into the filePrintWriter myOutputAllow the program to print to external file</i></th></tr>
+   <tr> <th><b>public static void</b></th> <th>printArray:<br><i>Prints the String array from parameter</i></th></tr>
+   <tr> <th><b>public static void</b></th> <th>array_contains:<br><i>Prints if String array contains the String element</i></th></tr>
+   <tr> <th><b>public static int</b></th> <th>findElement:<br><i>return the value based on if the element exists in the String array</i></th></tr>
+   <tr> <th><b>public static int</b></th> <th>findElement_loc:<br><i>return the value based on if the element exists in the String array</i></th></tr>
+   <tr> <th><b>public static int</b></th> <th>findLargest:<br><i>return the largest value based on the alphabetical order</i></th></tr>
+   <tr> <th><b>public static int</b></th> <th>findSmallest:<br><i>return the smallest value based on the alphabetical order</i></th></tr>
+   <tr> <th><b>public static String[]</b></th> <th>change_size_of_array:<br><i>return the resized array with all the elements from the original array and deleted the specific value when it is in delete mode and return the resized array with one additional empty position at specific location the user required to insert new element</i></th></tr>
+   <tr> <th><b>public static String[]</b></th> <th>insert:<br><i>return the new array with the new element inserted using change_size_of_array</i></th></tr>
+   <tr> <th><b>public static String[]</b></th> <th>removeElementByItem:<br><i>return the new array with the element deleted from the original array using change_size_of_array</i></th></tr>
+   <tr> <th><b>public static String[]</b></th> <th>duplicateArray:<br><i>return the new copied array</i></th></tr>
+   <tr> <th><b>public static boolean</b></th> <th>sameArray:<br><i>return true when two String arrays are identical to each other, and false when two arrays are different from each other</i></th></tr>
+   <tr> <th><b>public static String[]</b></th> <th>reverse:<br><i>return the new String array with the location of the elements are reveresed</i></th></tr>
+   <tr> <th><b>public static int</b></th> <th>countElement:<br><i>return the number of specific elemet appearing in the String array</i></th></tr>
+   
+   
    
    
   </table>
