@@ -17,7 +17,7 @@ tags:
 <h1>Method Summary</h1>
   <table>
    <tr> <th><b>Modifier and Type</b></th> <th>Method and Description</th></tr>
-   
+
    <tr> <th><b>public static int[]</b></th> <th>makeArray:<br><i>Creates the new integer array and return created array</i></th></tr>
    <tr> <th><b>public static int[]</b></th> <th>user_defined_array:<br><i>Creates the new integer array with user defined values and return the array using makeArray method</i></th></tr>
    <tr> <th><b>public static int[]</b></th> <th>random_array:<br><i>Creates the new integer array with random values and return the array using makeArray method</i></th></tr>
@@ -32,7 +32,7 @@ tags:
    <tr> <th><b>public static int[]</b></th> <th>delete_element:<br><i>return the new array with all the values from original array and the selected value deleted using change_size_of_array method and search_value method</i></th></tr>
    <tr> <th><b>public static int[]</b></th> <th>make_copied_array:<br><i>return the new array with all the values from original array</i></th></tr>
    <tr> <th><b>public static boolean</b></th> <th>identical:<br><i>return true when two arrays are identical to each other and if not, return false</i></th></tr>
-   
+
    <tr> <th><b>public static String[]</b></th> <th>createEmptyStringArray:<br><i>Creates the String array and return created array</i></th></tr>
    <tr> <th><b>public static String[]</b></th> <th>user_defined_array:<br><i>Creates the new String array using createEmptyStringArray and fill with user defined values and return the array using makeArray method. Print the log into the filePrintWriter myOutputAllow the program to print to external file</i></th></tr>
    <tr> <th><b>public static void</b></th> <th>printArray:<br><i>Prints the String array from parameter</i></th></tr>
@@ -48,11 +48,9 @@ tags:
    <tr> <th><b>public static boolean</b></th> <th>sameArray:<br><i>return true when two String arrays are identical to each other, and false when two arrays are different from each other</i></th></tr>
    <tr> <th><b>public static String[]</b></th> <th>reverse:<br><i>return the new String array with the location of the elements are reveresed</i></th></tr>
    <tr> <th><b>public static int</b></th> <th>countElement:<br><i>return the number of specific elemet appearing in the String array</i></th></tr>
-   
-   
-   
-   
   </table>
+
+  
 <hr>
 <h1>Method Detail</h1>
 <!--Integer-->
