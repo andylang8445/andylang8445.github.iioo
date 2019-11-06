@@ -12,6 +12,8 @@ tags:
 - School
 ---
 <h1>Class Arrays</h1>
+
+The class Arrays contains the methods that operates the integer and string array.
 <hr>
 
 <h1>Method Summary</h1>
