@@ -29,8 +29,8 @@ tags:
 <h3>Subclasses</h3>
 - N/A
 <h3>Is this abstract class</h3>
-- No
-    - Constructors
+- It's not an abstract class
+- Constructors
         - ImageView(): Allocates a new ImageView object.
         - ImageView(Image image): Allocates a new ImageView object using the given image.
         ImageView(String url): Allocates a new ImageView object with image loaded from the specified URL.
