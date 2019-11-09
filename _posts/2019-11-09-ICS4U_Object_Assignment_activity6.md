@@ -31,13 +31,13 @@ tags:
 <h3>Is this abstract class</h3>
 - It's not an abstract class
 - Constructors
-        - ImageView(): Allocates a new ImageView object.
-        - ImageView(Image image): Allocates a new ImageView object using the given image.
-        - ImageView(String url): Allocates a new ImageView object with image loaded from the specified URL.
+    - <b>ImageView():</b> Allocates a new ImageView object.
+    - <b>ImageView(Image image):</b> Allocates a new ImageView object using the given image.
+    - <b>ImageView(String url):</b> Allocates a new ImageView object with image loaded from the specified URL.
 <h3>Method overloading</h3>
 - No method overloading
 <h3>method signature of ONE accessor (getter) and ONE mutator (setter)</h3>
-- Mutator: public final void setFitHeight(double value)
+- <b>Mutator:</b> public final void setFitHeight(double value)
     - Sets the value of the property fitHeight.
-- Accessor: public final double getFitHeight()
+- <b>Accessor:</b> public final double getFitHeight()
     - Gets the value of the property fitHeight.
