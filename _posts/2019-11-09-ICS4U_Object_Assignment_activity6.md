@@ -36,7 +36,7 @@ tags:
     - <b>ImageView(String url):</b> Allocates a new ImageView object with image loaded from the specified URL.
 <h3>Method overloading</h3>
 - No method overloading
-<h3>method signature of ONE accessor (getter) and ONE mutator (setter)</h3>
+<h3>Method signature of an accessor (getter) and a mutator (setter)</h3>
 - <b>Mutator:</b> public final void setFitHeight(double value)
     - Sets the value of the property fitHeight.
 - <b>Accessor:</b> public final double getFitHeight()
