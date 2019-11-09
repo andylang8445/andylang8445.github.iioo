@@ -41,3 +41,29 @@ tags:
     - Sets the value of the property fitHeight.
 - <b>Accessor:</b> public final double getFitHeight()
     - Gets the value of the property fitHeight.
+<br>
+<br>
+
+# Color<br>
+ <h3>Classes</h3>
+ - java.lang.Object
+ - javafx.scene.paint.Paint
+ <h3>Interfaces that this class implements</h3>
+ - Interpolatable<Color>
+ <h3>Subclasses</h3>
+ - N/A
+ <h3>Is this abstract class</h3>
+ - It's not an abstract class
+ - Constructors
+    - <b>Color(double red, double green, double blue, double opacity):</b> Creates a new instance of color.
+ <h3>Method overloading</h3>
+ - <b>static Color rgb(int red, int green, int blue):</b> Creates an opaque sRGB color with the specified RGB values in the range 0-255.
+ - <b>static Color rgb(int red, int green, int blue, double opacity):</b> Creates an sRGB color with the specified RGB values in the range 0-255, and a given opacity.
+ <h3>Method signature of an accessor (getter) and a mutator (setter)</h3>
+ - <b>Mutator:</b> N/A
+     - Automatically setted when the color has been chosen
+ - <b>Accessor:</b> public double getSaturation()
+     - Gets the saturation component of this Color.
+ <br>
+ <br>
+
