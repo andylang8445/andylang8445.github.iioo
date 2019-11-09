@@ -15,9 +15,9 @@ tags:
 ---
 <h1>Objects in JavaFX Activity 6</h1>
 
-
 <hr>
 <br>
+
 
 # ImageView<br>
 <h3>Classes</h3>
