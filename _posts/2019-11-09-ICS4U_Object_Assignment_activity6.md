@@ -14,7 +14,10 @@ tags:
 - Assignment
 ---
 <h1>Objects in JavaFX Activity 6</h1>
+    
 
+
+<br>
 <hr>
 <br>
 
