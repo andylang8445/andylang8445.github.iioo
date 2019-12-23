@@ -16,11 +16,10 @@ tags:
 <h1>Objects in JavaFX Activity 6</h1>
 
 JavaFX methods Documentation
-
 <hr>
 
 
-# ImageView<br>
+<h1> ImageView</h1><br>
 <h3>Classes</h3>
 - java.lang.Object
 - javafx.scene.Node
