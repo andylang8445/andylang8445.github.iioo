@@ -18,9 +18,9 @@ tags:
 JavaFX methods Documentation
 <hr>
 
-
-<h1> ImageView</h1>
+<h1>ImageView</h1>
 <h3>Classes</h3>
+<p>
 - java.lang.Object
 - javafx.scene.Node
 <h3>Interfaces that this class implements</h3>
@@ -41,10 +41,11 @@ JavaFX methods Documentation
     - Sets the value of the property fitHeight.
 - <b>Accessor:</b> public final double getFitHeight()
     - Gets the value of the property fitHeight.
+</p>
 <br>
 <br>
 
-# Color<br>
+<h1>Color</h1>
 <h3>Classes</h3>
 - java.lang.Object
 - javafx.scene.paint.Paint
