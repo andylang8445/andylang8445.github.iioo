@@ -18,7 +18,7 @@ tags:
 JavaFX methods Documentation
 <hr>
 
-<h1>ImageView</h1>
+## ImageView <br>
 <h3>Classes</h3>
 - java.lang.Object
 - javafx.scene.Node
@@ -43,7 +43,7 @@ JavaFX methods Documentation
 <br>
 <br>
 
-<h1>Color</h1>
+## Color <br>
 <h3>Classes</h3>
 - java.lang.Object
 - javafx.scene.paint.Paint
