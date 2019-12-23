@@ -19,7 +19,7 @@ JavaFX methods Documentation
 <hr>
 
 
-<h1> ImageView</h1><br>
+<h1> ImageView</h1>
 <h3>Classes</h3>
 - java.lang.Object
 - javafx.scene.Node
