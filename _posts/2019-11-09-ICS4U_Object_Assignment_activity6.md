@@ -14,12 +14,10 @@ tags:
 - Assignment
 ---
 <h1>Objects in JavaFX Activity 6</h1>
-    
 
+JavaFX methods Documentation
 
-<br>
 <hr>
-<br>
 
 
 # ImageView<br>
@@ -94,4 +92,3 @@ tags:
     - Gets the event type of this event. Objects of the same Event class can have different event types. These event types further specify what kind of event occurred.
 <br>
 <br>
-
