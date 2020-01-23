@@ -45,7 +45,6 @@ JavaFX methods Documentation Page
 <br>
 
 ### Color
-
   <h3>Classes</h3>
   - java.lang.Object
   - javafx.scene.paint.Paint
@@ -69,7 +68,6 @@ JavaFX methods Documentation Page
 
 
 ### MouseEvent
-
   <h3>Classes</h3>
   - java.lang.Object
   - java.util.EventObject
