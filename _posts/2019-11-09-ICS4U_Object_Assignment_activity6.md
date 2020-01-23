@@ -14,10 +14,11 @@ tags:
 - Assignment
 ---
 <h1>Objects in JavaFX Activity 6</h1>
-
 JavaFX methods Documentation
+
 <hr>
-<hr>
+
+
 
 <h1> ImageView</h1> <br>
   <h3>Classes</h3>
@@ -42,7 +43,6 @@ JavaFX methods Documentation
   - <b>Accessor:</b> public final double getFitHeight()
       - Gets the value of the property fitHeight.
 <br>
-<hr>
 <br>
 
 <h1> Color</h1> <br>
@@ -66,7 +66,6 @@ JavaFX methods Documentation
   - <b>Accessor:</b> public double getSaturation()
       - Gets the saturation component of this Color.
 <br>
-<hr>
 <br>
 
 
