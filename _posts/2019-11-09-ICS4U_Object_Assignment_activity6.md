@@ -15,7 +15,7 @@ tags:
 ---
 ### Objects in JavaFX Activity 6
 
-JavaFX methods Documentation
+JavaFX methods Documentation Page
 
 <hr>
 
