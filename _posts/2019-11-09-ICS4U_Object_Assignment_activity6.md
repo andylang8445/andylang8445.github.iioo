@@ -44,8 +44,7 @@ JavaFX methods Documentation
 <br>
 <br>
 
-
-## Color <br>
+# Color <br>
   <h3>Classes</h3>
   - java.lang.Object
   - javafx.scene.paint.Paint
