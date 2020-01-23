@@ -21,7 +21,7 @@ JavaFX methods Documentation Page
 <hr>
 
 # ImageView
-##Classes
+## Classes
   - java.lang.Object
   - javafx.scene.Node
   <h3>Interfaces that this class implements</h3>
