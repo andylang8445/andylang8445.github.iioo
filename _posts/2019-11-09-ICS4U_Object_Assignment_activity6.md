@@ -17,11 +17,11 @@ tags:
 
 JavaFX methods Documentation Page
 
+<br>
 <hr>
 
-
-
 ### ImageView
+
   <h3>Classes</h3>
   - java.lang.Object
   - javafx.scene.Node
@@ -44,9 +44,9 @@ JavaFX methods Documentation Page
   - <b>Accessor:</b> public final double getFitHeight()
       - Gets the value of the property fitHeight.
 <br>
-<br>
 
 ### Color
+
   <h3>Classes</h3>
   - java.lang.Object
   - javafx.scene.paint.Paint
@@ -67,10 +67,10 @@ JavaFX methods Documentation Page
   - <b>Accessor:</b> public double getSaturation()
       - Gets the saturation component of this Color.
 <br>
-<br>
 
 
 ### MouseEvent
+
   <h3>Classes</h3>
   - java.lang.Object
   - java.util.EventObject
@@ -97,5 +97,3 @@ JavaFX methods Documentation Page
       - Augments drag detection behavior. The value says whether this event will be followed by DRAG_DETECTED event. It has effect only with MOUSE_PRESSED and MOUSE_DRAGGED events.
   - <b>Accessor:</b> public final double getScreenX()
       - Returns absolute horizontal position of the event.
-<br>
-<br>
