@@ -18,7 +18,6 @@ tags:
 JavaFX methods Documentation
 <hr>
 
-<h1></h1>
 # ImageView <br>
   <h3>Classes</h3>
   - java.lang.Object
