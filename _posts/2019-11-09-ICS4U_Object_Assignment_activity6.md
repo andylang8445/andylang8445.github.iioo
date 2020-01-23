@@ -17,8 +17,6 @@ tags:
 
 JavaFX methods Documentation
 <hr>
-<br>
-
 # ImageView <br>
   <h3>Classes</h3>
   - java.lang.Object
@@ -90,5 +88,10 @@ JavaFX methods Documentation
       - Automatically setted when the mouse event happens
   - <b>Accessor:</b> public EventType<? extends MouseEvent> getEventType()
       - Gets the event type of this event. Objects of the same Event class can have different event types. These event types further specify what kind of event occurred.
+  <h3>Method signature of an accessor (getter) and a mutator (setter)</h3>
+  - <b>Mutator:</b> public void setDragDetect(boolean dragDetect)
+      - Augments drag detection behavior. The value says whether this event will be followed by DRAG_DETECTED event. It has effect only with MOUSE_PRESSED and MOUSE_DRAGGED events.
+  - <b>Accessor:</b> public final double getScreenX()
+      - Returns absolute horizontal position of the event.
 <br>
 <br>
