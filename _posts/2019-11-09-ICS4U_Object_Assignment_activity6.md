@@ -17,7 +17,7 @@ tags:
 
 JavaFX methods Documentation
 <hr>
-
+<br><hr>
 # ImageView <br>
   <h3>Classes</h3>
   - java.lang.Object
@@ -41,6 +41,7 @@ JavaFX methods Documentation
   - <b>Accessor:</b> public final double getFitHeight()
       - Gets the value of the property fitHeight.
 <br>
+<hr>
 <br>
 
 # Color <br>
@@ -64,6 +65,7 @@ JavaFX methods Documentation
   - <b>Accessor:</b> public double getSaturation()
       - Gets the saturation component of this Color.
 <br>
+<hr>
 <br>
 
 
