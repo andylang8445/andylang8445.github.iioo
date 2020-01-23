@@ -13,16 +13,15 @@ tags:
 - Computer Science
 - Assignment
 ---
-### Objects in JavaFX Activity 6
+# Objects in JavaFX Activity 6
 
 JavaFX methods Documentation Page
 
 <br>
 <hr>
 
-### ImageView
-
-  <h3>Classes</h3>
+# ImageView
+  ## Classes
   - java.lang.Object
   - javafx.scene.Node
   <h3>Interfaces that this class implements</h3>
