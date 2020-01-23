@@ -44,6 +44,7 @@ JavaFX methods Documentation
 <br>
 <br>
 
+
 ## Color <br>
   <h3>Classes</h3>
   - java.lang.Object
@@ -66,6 +67,7 @@ JavaFX methods Documentation
       - Gets the saturation component of this Color.
 <br>
 <br>
+
 
 # MouseEvent <br>
   <h3>Classes</h3>
