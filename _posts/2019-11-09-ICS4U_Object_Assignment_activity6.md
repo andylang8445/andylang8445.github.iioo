@@ -17,8 +17,9 @@ tags:
 
 JavaFX methods Documentation
 <hr>
-<br><hr>
-# ImageView <br>
+<hr>
+
+<h1> ImageView</h1> <br>
   <h3>Classes</h3>
   - java.lang.Object
   - javafx.scene.Node
@@ -44,7 +45,7 @@ JavaFX methods Documentation
 <hr>
 <br>
 
-# Color <br>
+<h1> Color</h1> <br>
   <h3>Classes</h3>
   - java.lang.Object
   - javafx.scene.paint.Paint
@@ -69,7 +70,7 @@ JavaFX methods Documentation
 <br>
 
 
-# MouseEvent <br>
+<h1>MouseEvent </h1><br>
   <h3>Classes</h3>
   - java.lang.Object
   - java.util.EventObject
