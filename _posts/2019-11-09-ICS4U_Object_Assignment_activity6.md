@@ -17,7 +17,7 @@ Objects in JavaFX Activity 6
 JavaFX methods Documentation Page.
 
 ### ImageView
-  <h3>Classes</h3>
+#### Classes
   - java.lang.Object
   - javafx.scene.Node
   <h3>Interfaces that this class implements</h3>
