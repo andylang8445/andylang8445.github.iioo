@@ -11,7 +11,7 @@ tags:
 - Programing
 - School
 ---
-<h1>Arrays Class</h1>
+<h1>[ICS4UI]Arrays Class Assignment</h1>
 
 The class Arrays contains the methods that operates the integer and string array.
 <hr>

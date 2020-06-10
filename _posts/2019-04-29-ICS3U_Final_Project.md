@@ -14,7 +14,7 @@ tags:
 - Final Project
 - Final Exam
 ---
-<h1>Final Project Doc</h1>
+<h1>[ICS3UI]Final Project Doc</h1>
 
 ## Shooting Game<br><br>
   <h3> User Part</h3>
