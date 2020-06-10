@@ -14,7 +14,7 @@ tags:
 - Assignment
 ---
 
-### [ICS4U]Objects in JavaFX Activity 6
+### Objects in JavaFX Activity 6
 * JavaFX methods Documentation Page.
 
 ### ImageView
@@ -29,8 +29,8 @@ tags:
 * Subclasses
   - N/A
 
-* Is this abstract class
-  - It's not an abstract class
+* Is this abstract class.
+  - It's not an abstract class.
   - Constructors
       - <b>ImageView():</b> Allocates a new ImageView object.
       - <b>ImageView(Image image):</b> Allocates a new ImageView object using the given image.
