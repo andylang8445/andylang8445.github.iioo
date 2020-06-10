@@ -27,7 +27,7 @@ WEIGHT:
 Weight <125pounds (56kg) without bumpers and battery
 
 BUMPERS:
-- Bumpers must be covered atleast 6 inches for each corner
+- Bumpers must be covered at least 6 inches for each corner
 - Bumpers cannot be more than 7.5 inches off the floor
 
 GENERATOR SWITCH:
@@ -42,7 +42,7 @@ HANGING:
 
 Max rotation is 14.5 degrees but consider level within 8 degrees:
 - Lower Level Limit: 4ft 7.75inches
-- Highest Levele Limit: 5ft 11.75 inches
+- Highest Level Limit: 5ft 11.75 inches
 
 LOADING BAY:
 - 6ft 6inches tall by 5ft tall
@@ -54,7 +54,7 @@ POWER PORTS:
 - 10ft tall by 4ft wide
 - Bottom Port: 10inches by 2ft 10in, bottom edge 1ft 6in above carpet
 - Outer Port: regular hexagon with 2ft 6inches height. The center of the outer port is 8ft 2.25 inches above carpet
-- Inner Port: 1ft 1inch diamter circle. It is 2ft 5.25 inches behind the outer port. The height of the center of the inner port = outer port
+- Inner Port: 1ft 1inch diameter circle. It is 2ft 5.25 inches behind the outer port. The height of the center of the inner port = outer port
 
 
 BACKBOARDS:
