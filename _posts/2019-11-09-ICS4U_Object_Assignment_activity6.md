@@ -17,25 +17,22 @@ tags:
 ### Objects in JavaFX Activity 6
 * JavaFX methods Documentation Page.
 
+
 ### ImageView
 * Classes
   - java.lang.Object
   - javafx.scene.Node
-
 * Interfaces that this class implements
   - Styleable
   - EventTarget
-
 * Subclasses
   - N/A
-
 * Is this abstract class.
   - It's not an abstract class.
   - Constructors
       - <b>ImageView():</b> Allocates a new ImageView object.
       - <b>ImageView(Image image):</b> Allocates a new ImageView object using the given image.
       - <b>ImageView(String url):</b> Allocates a new ImageView object with image loaded from the specified URL.
-
 * Method overloading
   - No method overloading
 * Method signature of an accessor (getter) and a mutator (setter)
@@ -43,7 +40,7 @@ tags:
       - Sets the value of the property fitHeight.
   - <b>Accessor:</b> public final double getFitHeight()
       - Gets the value of the property fitHeight.
-<br>
+
 
 ### Color
 * Classes
@@ -65,7 +62,6 @@ tags:
       - Automatically setted when the color has been chosen
   - <b>Accessor:</b> public double getSaturation()
       - Gets the saturation component of this Color.
-<br>
 
 
 ### MouseEvent
