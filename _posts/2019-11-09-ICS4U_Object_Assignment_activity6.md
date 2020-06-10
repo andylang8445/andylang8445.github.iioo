@@ -13,6 +13,7 @@ tags:
 - Computer Science
 - Assignment
 ---
+
 # Objects in JavaFX Activity 6
 * JavaFX methods Documentation Page.
 
