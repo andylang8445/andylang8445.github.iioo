@@ -16,8 +16,8 @@ tags:
 Objects in JavaFX Activity 6
 JavaFX methods Documentation Page.
 
-# ImageView
-## Classes
+### ImageView
+<h3>Classes</h3>
   - java.lang.Object
   - javafx.scene.Node
 
