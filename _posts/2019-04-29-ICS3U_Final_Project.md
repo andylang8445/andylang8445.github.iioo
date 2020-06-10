@@ -15,6 +15,7 @@ tags:
 - Final Exam
 ---
 <h1>Final Project Doc</h1>
+<hr>
 
 ## Shooting Game<br><br>
   <h3> User Part</h3>

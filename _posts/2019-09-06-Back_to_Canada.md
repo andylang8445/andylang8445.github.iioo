@@ -12,6 +12,7 @@ tags:
 - Grade 12
 ---
 <h1>Back to Canada for 2019-2020 school year</h1>
+<hr>
 
 # Starting as Grade 12 Student
   <h3>Course</h3>

@@ -12,7 +12,6 @@ tags:
 - School
 ---
 <h1>Arrays Class Assignment</h1>
-
 The class Arrays contains the methods that operates the integer and string array.
 <hr>
 
