@@ -15,10 +15,13 @@ tags:
 ---
 <h1>FRC 2020 ROBOTICS DESIGN SPECIFICATIONS</h1>
 
+The FRC 2020 contest rule summarized for design part of the Robot.
+<hr>
+
 DIMENSIONS:
 - Frame Perimeter: 120 inches
 - Height 45 inches
-- Cannot extend more than 12 inches than the frame peremeter
+- Cannot extend more than 12 inches than the frame perimeter
 
 WEIGHT:
 Weight <125pounds (56kg) without bumpers and battery
