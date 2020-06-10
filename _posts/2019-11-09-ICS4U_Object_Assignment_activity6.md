@@ -19,7 +19,7 @@ JavaFX methods Documentation Page.
 <hr>
 <br>
 
-# ImageView<br>
+<h1>ImageView</h1>
   <h3>Classes</h3>
   - java.lang.Object
   - javafx.scene.Node
@@ -43,7 +43,7 @@ JavaFX methods Documentation Page.
       - Gets the value of the property fitHeight.
 <br>
 
-# Color<br>
+<h1>Color</h1>
   <h3>Classes</h3>
   - java.lang.Object
   - javafx.scene.paint.Paint
@@ -66,7 +66,7 @@ JavaFX methods Documentation Page.
 <br>
 
 
-# MouseEvent<br>
+<h1>MouseEvent</h1>
   <h3>Classes</h3>
   - java.lang.Object
   - java.util.EventObject
