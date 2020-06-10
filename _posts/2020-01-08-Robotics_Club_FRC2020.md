@@ -15,6 +15,7 @@ tags:
 ---
 <h1>FRC 2020 ROBOTICS DESIGN SPECIFICATIONS</h1>
 The FRC 2020 contest rule summarized for design part of the Robot.
+
 <hr>
 
 ## DIMENSIONS:

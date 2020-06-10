@@ -12,6 +12,8 @@ tags:
 - Project
 ---
 <h1>Under40 Dice Game Project Development Doc</h1>
+
+
 <hr>
 
 ## Introducing the Game<br><br>
