@@ -16,4 +16,5 @@ type: about
 * In School
     - 2018 한가람 수학 경시대회 동상
     - CEMC Fermat 2nd place in school
+    - CEMC Hypatia 1st place in school
     - CEMC CCC 1st place in school for both Junior and Senior Level
