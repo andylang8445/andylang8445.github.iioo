@@ -44,7 +44,7 @@ JavaFX methods Documentation Page.
       - Gets the value of the property fitHeight.
 <br>
 
-*### Color
+### Color
 * Classes
   - java.lang.Object
   - javafx.scene.paint.Paint
@@ -67,7 +67,7 @@ JavaFX methods Documentation Page.
 <br>
 
 
-*### MouseEvent
+### MouseEvent
 * Classes
   - java.lang.Object
   - java.util.EventObject
