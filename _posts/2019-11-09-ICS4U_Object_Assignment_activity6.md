@@ -14,7 +14,7 @@ tags:
 - Assignment
 ---
 
-# Objects in JavaFX Activity 6
+# [ICS4U]Objects in JavaFX Activity 6
 * JavaFX methods Documentation Page.
 
 ### ImageView
