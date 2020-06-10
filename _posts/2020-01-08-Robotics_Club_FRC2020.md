@@ -66,7 +66,7 @@ Weight <125pounds (56kg) without bumpers and battery
 - width: 4ft 8in
 - length: 3ft 5.5in
 
-## Trench tunnel:
+## Trench Tunnel:
 - width: 4ft 4in
 - height: 2ft 4in
 - length: 2ft 6in
