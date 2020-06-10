@@ -13,13 +13,10 @@ tags:
 - Computer Science
 - Assignment
 ---
-<h1>Objects in JavaFX Activity 6</h1>
+Objects in JavaFX Activity 6
 JavaFX methods Documentation Page.
 
-<hr>
-<br>
-
-<h1>ImageView</h1>
+### ImageView
   <h3>Classes</h3>
   - java.lang.Object
   - javafx.scene.Node
@@ -43,7 +40,7 @@ JavaFX methods Documentation Page.
       - Gets the value of the property fitHeight.
 <br>
 
-<h1>Color</h1>
+### Color
   <h3>Classes</h3>
   - java.lang.Object
   - javafx.scene.paint.Paint
@@ -66,7 +63,7 @@ JavaFX methods Documentation Page.
 <br>
 
 
-<h1>MouseEvent</h1>
+### MouseEvent
   <h3>Classes</h3>
   - java.lang.Object
   - java.util.EventObject
