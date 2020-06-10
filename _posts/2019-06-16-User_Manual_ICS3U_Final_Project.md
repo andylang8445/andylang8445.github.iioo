@@ -1,5 +1,5 @@
 ---
-title:  "Final Project User Manual for ICS3U (Grade11 Computer Science)"
+title:  "[ICS3UI]Final Project User Manual for ICS3U (Grade11 Computer Science)"
 date:   2019-06-16 22:14:55
 categories:
 - School Class

@@ -1,5 +1,5 @@
 ---
-title:  "Final Project for ICS3U (Grade11 Computer Science)"
+title:  "[ICS3UI]Final Project for ICS3U (Grade11 Computer Science)"
 date:   2019-05-29 00:00:01
 categories:
 - School Class
@@ -14,7 +14,7 @@ tags:
 - Final Project
 - Final Exam
 ---
-<h1>[ICS3UI]Final Project Doc</h1>
+<h1>Final Project Doc</h1>
 
 ## Shooting Game<br><br>
   <h3> User Part</h3>
