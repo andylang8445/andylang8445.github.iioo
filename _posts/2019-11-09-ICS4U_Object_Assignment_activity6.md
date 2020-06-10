@@ -1,5 +1,5 @@
 ---
-title:  "[ICS4U]Activity 6 for Object Assignment"
+title:  "[ICS4U]Activity 6 for Object Assignment Submission"
 date:   2019-11-09 01:05:00
 categories:
 - School Class
@@ -13,11 +13,9 @@ tags:
 - Computer Science
 - Assignment
 ---
-# Objects in JavaFX Activity 6
+<h1>Objects in JavaFX Activity 6</h1>
 
-JavaFX methods Documentation Page
-
-<br>
+JavaFX methods Documentation Page.
 <hr>
 
 # ImageView
