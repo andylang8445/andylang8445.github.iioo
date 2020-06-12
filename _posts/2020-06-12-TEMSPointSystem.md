@@ -29,3 +29,11 @@ Real-time Web Page that can keep track of individual students' points for the re
 * Students should be able to access their current point status with some details and their current ranking in the system
 * All data should be up-to-date at all times
 * Teachers(Tutors) should be able to give or subtract the points as needed, but students' should not be able to access this function
+
+### Platform used in this project
+* AWS(Amazon Web Services)
+    * Web Server (Apache) server hosting
+    * NodeJS Server
+* Google Cloud Platform
+    * SQL Server
+    * Bucket(image) Server
