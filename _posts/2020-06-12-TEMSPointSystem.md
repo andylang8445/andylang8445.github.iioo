@@ -18,3 +18,9 @@ tags:
 - AWS
 - Google Cloud Platform
 ---
+
+## Canada TEMS Academy Point System
+Web Page Development
+
+## Preview
+Real-time Web Page that can keep track of individual students' points for the reward system during COVID-19 situation.
