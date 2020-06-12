@@ -37,3 +37,6 @@ Real-time Web Page that can keep track of individual students' points for the re
 * Google Cloud Platform
     * SQL Server
     * Bucket(image) Server
+
+
+## Planning
