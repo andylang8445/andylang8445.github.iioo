@@ -1,5 +1,5 @@
 ---
-title:  "TEMS Canada Academy Point System"
+title:  "TEMS Academy Point System Project"
 date:   2020-06-10 00:06:00
 categories:
 - Programming
