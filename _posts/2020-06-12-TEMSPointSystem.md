@@ -39,3 +39,7 @@ Real-time Web Page that can keep track of individual students' points for the re
     * Bucket(image) Server
 
 ## Planning
+
+### Student Side
+1. The public ip address directly brings the client to the point ranking board
+2. When the client is recieveing the point data from the server, 
