@@ -19,7 +19,7 @@ tags:
 - Google Cloud Platform
 ---
 
-## Canada TEMS Academy Point System
+<h1>Canada TEMS Academy Point System</h1>
 Web Page Development
 
 ## Preview
@@ -37,6 +37,5 @@ Real-time Web Page that can keep track of individual students' points for the re
 * Google Cloud Platform
     * SQL Server
     * Bucket(image) Server
-
 
 ## Planning
