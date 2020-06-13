@@ -54,4 +54,4 @@ Real-time Web Page that can keep track of individual students' points for the re
 4. When the authorization goes through and successfully finished the login process, the webpage redirects to the tutor's section.
 5. In tutor's section, there is a selecting tool where the tutor can choose a student to change the point.
     * When the tutor's section is initially being loaded, a invisible table of students' name and current poing status gets loaded at the same time.
-6. 
+6. There are buttons 
