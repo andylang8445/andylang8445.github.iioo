@@ -45,6 +45,11 @@ Real-time Web Page that can keep track of individual students' points for the re
 2. When the client is recieveing the point data from the server, the datas are already sorted by point(decreasing order)
 3. Users are able to change the sorting options without refreshing the page.
 4. When the user reloads the page, the server sends the current data at the moment.
+<figure>
+  <img src = "https://i.imgur.com/VGd1Q7Z.png"/>
+  <figcaption><center>The screenshot of main console</center></figcaption>
+</figure>
+
 
 ### Teacher side
 1. There is the login tab for the tutors on the top menu bar.
@@ -54,4 +59,11 @@ Real-time Web Page that can keep track of individual students' points for the re
 4. When the authorization goes through and successfully finished the login process, the webpage redirects to the tutor's section.
 5. In tutor's section, there is a selecting tool where the tutor can choose a student to change the point.
     * When the tutor's section is initially being loaded, a invisible table of students' name and current poing status gets loaded at the same time.
-6. There are buttons 
+6. There are buttons that teachers can use to give poings the take points away according to the point rules. They can also maiually input the changed point for individual students at the page
+    * There is a big red button for resetting the database when the teachers need to do so.
+<figure>
+  <img src = "https://i.imgur.com/qjmjo4h.png"/>
+  <figcaption><center>The screenshot of tutor's section</center></figcaption>
+</figure>
+
+### Server Side
