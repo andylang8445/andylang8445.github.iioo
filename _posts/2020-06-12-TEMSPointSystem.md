@@ -22,15 +22,15 @@ tags:
 <h1>Canada TEMS Academy Point System</h1>
 Web Page Development
 
-## Preview
+# Preview
 Real-time Web Page that can keep track of individual students' points for the reward system during COVID-19 situation.
 
-### Requirements
+## Requirements
 * Students should be able to access their current point status with some details and their current ranking in the system
 * All data should be up-to-date at all times
 * Teachers(Tutors) should be able to give or subtract the points as needed, but students' should not be able to access this function
 
-### Platform used in this project
+## Platform used in this project
 * AWS(Amazon Web Services)
     * Web Server (Apache) server hosting
     * NodeJS Server
@@ -38,9 +38,9 @@ Real-time Web Page that can keep track of individual students' points for the re
     * SQL Server
     * Bucket(image) Server
 
-## Planning
+# Planning
 
-### Student Side
+## Student Side
 1. The public ip address directly brings the client to the point ranking board
 2. When the client is recieveing the point data from the server, the datas are already sorted by point(decreasing order)
 3. Users are able to change the sorting options without refreshing the page.
@@ -51,7 +51,7 @@ Real-time Web Page that can keep track of individual students' points for the re
 </figure>
 
 
-### Teacher side
+## Teacher side
 1. There is the login tab for the tutors on the top menu bar.
 2. When login action happens, PHP goes through the authorization process; which is basicly checking the id and passward.
     * id has to be unique to prevent the errors that might occure, but passward does not have to be unique
@@ -66,4 +66,4 @@ Real-time Web Page that can keep track of individual students' points for the re
   <figcaption><center>The screenshot of tutor's section</center></figcaption>
 </figure>
 
-### Server Side
+## Server Side
