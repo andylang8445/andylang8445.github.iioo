@@ -76,17 +76,20 @@ Used with Apache and PHP
 * Tutor's page is connected to NodeJS server with SocketIO adn express
 * Server that interacts with users directly
 * Runs on CentOS and AWS LightSail
+
 ### NodeJS Server
 The server to update the database
 * Being used for tutor's page to update students' points with input
 * Runs on AWS Lightsail NodeJS Server
 * Used forever to keep the service running on the background and automatically restarts the program when the server has been rebooted
+
 ### SQL Server
 Server used for storing up-to-date student point status and storing tutors' login data
 * Initially worked on Google Cloud Platform
     - Google Cloud Platfor has better UI for database management, but difficult to change data on the website (had to use third-party program to access the server and change the data)
 * Have moved to AWS SQL server on Lightsail because of the cost issue
     - AWS SQL server has difficult UI for a entry-level users, but can access the server directly from the web page(Still easier to use other program. I used Sequel Pro)
+
 ### Image server
 Server used to load logos and design factors that are in svg, jpeg, and png form
 * Initially used on Google Cloud Platform
