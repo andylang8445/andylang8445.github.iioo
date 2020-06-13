@@ -60,10 +60,16 @@ Real-time Web Page that can keep track of individual students' points for the re
 5. In tutor's section, there is a selecting tool where the tutor can choose a student to change the point.
     * When the tutor's section is initially being loaded, a invisible table of students' name and current poing status gets loaded at the same time.
 6. There are buttons that teachers can use to give poings the take points away according to the point rules. They can also maiually input the changed point for individual students at the page
+    * There is a line of text that indicates the current status of the NodeJS Server at retries to connect to server when it is not being connected
     * There is a big red button for resetting the database when the teachers need to do so.
+7. When the tutor finishes updating the poing for the student, they should press Send button to update the database.
 <figure>
   <img src = "https://i.imgur.com/qjmjo4h.png"/>
   <figcaption><center>The screenshot of tutor's section</center></figcaption>
 </figure>
 
 ## Server Side
+### Webserver
+### NodeJS Server
+### SQL Server
+### Image server
