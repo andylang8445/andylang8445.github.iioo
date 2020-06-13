@@ -22,7 +22,7 @@ tags:
 <h1>Canada TEMS Academy Point System</h1>
 Web Page Development
 
-# Preview
+# Overview
 Real-time Web Page that can keep track of individual students' points for the reward system during COVID-19 situation.
 
 ## Requirements
@@ -38,7 +38,7 @@ Real-time Web Page that can keep track of individual students' points for the re
     * SQL Server
     * Bucket(image) Server
 
-# Planning
+# Detailed Description
 
 ## Student Side
 1. The public ip address directly brings the client to the point ranking board
@@ -88,3 +88,6 @@ Server used for storing up-to-date student point status and storing tutors' logi
 * Have moved to AWS SQL server on Lightsail because of the cost issue
     - AWS SQL server has difficult UI for a entry-level users, but can access the server directly from the web page(Still easier to use other program. I used Sequel Pro)
 ### Image server
+Server used to load logos and design factors that are in svg, jpeg, and png form
+* Initially used on Google Cloud Platform
+* Moved to a free service, <a href="https://imgur.com">imgur</a>
