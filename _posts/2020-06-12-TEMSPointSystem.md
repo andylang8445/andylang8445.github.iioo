@@ -22,6 +22,8 @@ tags:
 <h1>Canada TEMS Academy Point System</h1>
 Web Page Development
 
+<hr>
+
 # Overview
 Real-time Web Page that can keep track of individual students' points for the reward system during COVID-19 situation.
 
@@ -37,6 +39,8 @@ Real-time Web Page that can keep track of individual students' points for the re
 * Google Cloud Platform
     * SQL Server
     * Bucket(image) Server
+
+<hr>
 
 # Detailed Description
 
