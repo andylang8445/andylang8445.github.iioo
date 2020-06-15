@@ -28,5 +28,5 @@ tags:
     * If a blank has been filled out, decrease blankCnt by one
 9. If blankCnt is equal to zero, finish the program
 10. If blankCnt is a negative integer, print error to the screen and finish the program
-12. If blankCnt is a positive integer, goto step 7
-13. If the program has finished without any errors, print the filled sudoku and how long did it take.
+11. If blankCnt is a positive integer, goto step 7
+12. If the program has finished without any errors, print the filled sudoku and how long did it take
