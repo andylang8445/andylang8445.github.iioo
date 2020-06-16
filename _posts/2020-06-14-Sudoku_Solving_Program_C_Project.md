@@ -10,6 +10,7 @@ tags:
 - C
 - Xcode
 - Algorithm
+- Grade 12
 ---
 # Overview
 * The goal of this project is to create the program that can solve most of the sudoku faster than an average human using C/C++ programming language
