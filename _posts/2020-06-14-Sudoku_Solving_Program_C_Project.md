@@ -31,3 +31,15 @@ tags:
 10. If blankCnt is a negative integer, print error to the screen and finish the program
 11. If blankCnt is a positive integer, goto step 7
 12. If the program has finished without any errors, print the filled sudoku and how long did it take
+
+# Programming
+## Day 1
+```cpp
+#include <stdio.h>
+
+int main(int argc, char* argv[]) {
+	printf("Hello, goorm!\n");
+	
+	return 0;
+}
+```
