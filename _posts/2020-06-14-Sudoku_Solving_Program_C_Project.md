@@ -254,7 +254,7 @@ int main(int argc, char* argv[]) {
 }
 ```
 
-## Daya 3
+## Day 3
 June 29, 2020
 ```c
 #include <stdio.h>
