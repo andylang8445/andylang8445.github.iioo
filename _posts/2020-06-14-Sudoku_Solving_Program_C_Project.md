@@ -445,3 +445,8 @@ int main(int argc, char* argv[]) {
 	return 0;
 }
 ```
+# Logs
+## Day 3
+### Known Error in CandidateMappingAdd() function
+Unable to identify on GroomIDE.
+Need farther inspection on IDEs (Xcode, VS)
