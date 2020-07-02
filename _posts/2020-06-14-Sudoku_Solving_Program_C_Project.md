@@ -693,8 +693,12 @@ int main(int argc, char* argv[]) {
 }
 ```
 The program can solve teh sudokus with one candidate on one blank.
+It has been checked running on VS community 2015
 # Logs
 ## Current Errors
+### Error when inputting blank on the last digit of each row
+When the sudoku has the last digit of each row blank, it does not detect it has a valid char.
+## Resolved Errors
 ### Known Error in CandidateMappingAdd() function
 Unable to identify on GroomIDE.
 Need farther inspection on IDEs (Xcode, VS)
@@ -703,3 +707,6 @@ Need farther inspection on IDEs (Xcode, VS)
 ### Known Error in CandidateMappingAdd() function
 Unable to identify on GroomIDE.
 Need farther inspection on IDEs (Xcode, VS)
+## Day 4
+### Error when inputting blank on the last digit of each row
+When the sudoku has the last digit of each row blank, it does not detect it has a valid char.
