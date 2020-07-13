@@ -1,6 +1,6 @@
 ---
 title:  "MacBook Pro Repairment"
-date:   2020-07-11 02:25:00
+date:   2020-07-12 20:27:00
 categories:
 - MacBook
 - Grade 12
