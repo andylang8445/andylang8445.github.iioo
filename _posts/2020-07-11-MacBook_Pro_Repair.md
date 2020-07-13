@@ -11,7 +11,7 @@ tags:
 - 2020
 ---
 # Overview
-I got my MacBook Pro repaired
+* I got my MacBook Pro repaired
 
 # Spec of my MacBook
 <table border="1">
