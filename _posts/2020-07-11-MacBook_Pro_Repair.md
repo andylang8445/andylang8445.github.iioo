@@ -9,6 +9,7 @@ tags:
 - MacBook
 - Grade 12
 - 2020
+- Apple
 ---
 # Overview
 * I got my MacBook Pro repaired
