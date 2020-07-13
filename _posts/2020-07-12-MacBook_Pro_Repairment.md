@@ -26,13 +26,25 @@ tags:
 	    <td>RAM</td>
 	    <td>16GB 2133 MHz LPDDR3</td>
 	</tr><!-- 두번째 줄 끝 -->
-  <tr><!-- 두번째 줄 시작 -->
+	<tr><!-- 두번째 줄 시작 -->
 	    <td>GPU</td>
 	    <td>Intel Iris Plus Graphics 655 1536 MB</td>
 	</tr><!-- 두번째 줄 끝 -->
-  <tr><!-- 두번째 줄 시작 -->
+	<tr><!-- 두번째 줄 시작 -->
+	    <td>Ports</td>
+	    <td><b>4 of Thunder Bolt 3</b> and <b>1 of 3.5mm Headphone Jack</b></td>
+	</tr><!-- 두번째 줄 끝 -->
+	<tr><!-- 두번째 줄 시작 -->
+	    <td>Storage</td>
+	    <td>512 GB Apple SSD</td>
+	</tr><!-- 두번째 줄 끝 -->
+	<tr><!-- 두번째 줄 시작 -->
 	    <td>Screen Size</td>
 	    <td>13.3" Retina Display</td>
+	</tr><!-- 두번째 줄 끝 -->
+	<tr><!-- 두번째 줄 시작 -->
+	    <td>Colour</td>
+	    <td>Space Gray</td>
 	</tr><!-- 두번째 줄 끝 -->
 </table>
 
