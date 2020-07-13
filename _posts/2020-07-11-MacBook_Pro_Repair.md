@@ -1,5 +1,5 @@
 ---
-title:  "MacBook Pro 13/" 2019 Repair"
+title:  "MacBook Pro Repairment"
 date:   2020-07-11 02:25:00
 categories:
 - MacBook
