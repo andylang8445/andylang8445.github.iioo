@@ -1,5 +1,5 @@
 ---
-title:  "Sudoku Solving Project"
+title:  "Sudoku Solving Project [Part 1]"
 date:   2020-06-22 01:43:40
 categories:
 - Programming
@@ -55,7 +55,7 @@ void sudokuFormatConverter(){//function that converts original sudoku map in 2D 
 			}
 		}
 	}
-	
+
 	printf("\nConverted Sudoku:\n");
 	for(int i=0;i<9;i++){
 		for(int j=0;j<9;j++){
@@ -104,7 +104,7 @@ void sudokuFormatConverter(){//function that converts original sudoku map in 2D 
 			}
 		}
 	}
-	
+
 	printf("\nConverted Sudoku:\n");
 	for(int i=0;i<9;i++){
 		for(int j=0;j<9;j++){
@@ -151,7 +151,7 @@ void CandidateMappingAdd(){
 int checkSudoku() { //Function that checks if the sudoku is suitable to the rule.
 	int horizontal, vertical, squared;
 	int tempSudokuLinearCheck[9];
-	
+
 	horizontal = vertical = squared = 0;
 	for(int i=0;i<9;i++){
 		for(int j=0;j<9;j++){
@@ -171,7 +171,7 @@ int checkSudoku() { //Function that checks if the sudoku is suitable to the rule
 				horizontal=1;
 			}
 		}
-		
+
 		for(int j=0;j<9;j++){
 			tempSudokuLinearCheck[j]=originalMap[j][i];
 		}
@@ -190,7 +190,7 @@ int checkSudoku() { //Function that checks if the sudoku is suitable to the rule
 			}
 		}
 	}
-	
+
 	// Square Check
 	for(int i=0;i<3;i++){
 		for(int j=0;j<3;j++){
@@ -203,7 +203,7 @@ int checkSudoku() { //Function that checks if the sudoku is suitable to the rule
 			tempSudokuLinearCheck[6]=originalMap[(i*3)+2][(j*3)];
 			tempSudokuLinearCheck[7]=originalMap[(i*3)+2][(j*3)+1];
 			tempSudokuLinearCheck[8]=originalMap[(i*3)+2][(j*3)+2];
-			
+
 			for(int m;m<8;m++){
 				for(int n=m+1;n<9;n++){
 					if(tempSudokuLinearCheck[m]>tempSudokuLinearCheck[n]){
@@ -220,7 +220,7 @@ int checkSudoku() { //Function that checks if the sudoku is suitable to the rule
 			}
 		}
 	}
-	
+
 	printf("Vertical Check: ");
 	if(vertical==1)
 		printf("FAIL");
@@ -285,7 +285,7 @@ void sudokuFormatConverter(){//function that converts original sudoku map in 2D 
 			}
 		}
 	}
-	
+
 	printf("\nConverted Sudoku:\n");
 	for(int i=0;i<9;i++){
 		for(int j=0;j<9;j++){
@@ -335,7 +335,7 @@ void CandidateMappingAdd(){
 int checkSudoku() { //Function that checks if the sudoku is suitable to the rule.
 	int horizontal, vertical, squared;
 	int tempSudokuLinearCheck[9];
-	
+
 	horizontal = vertical = squared = 0;
 	for(int i=0;i<9;i++){
 		for(int j=0;j<9;j++){
@@ -355,7 +355,7 @@ int checkSudoku() { //Function that checks if the sudoku is suitable to the rule
 				horizontal=1;
 			}
 		}
-		
+
 		for(int j=0;j<9;j++){
 			tempSudokuLinearCheck[j]=originalMap[j][i];
 		}
@@ -374,7 +374,7 @@ int checkSudoku() { //Function that checks if the sudoku is suitable to the rule
 			}
 		}
 	}
-	
+
 	// Square Check
 	for(int i=0;i<3;i++){
 		for(int j=0;j<3;j++){
@@ -387,7 +387,7 @@ int checkSudoku() { //Function that checks if the sudoku is suitable to the rule
 			tempSudokuLinearCheck[6]=originalMap[(i*3)+2][(j*3)];
 			tempSudokuLinearCheck[7]=originalMap[(i*3)+2][(j*3)+1];
 			tempSudokuLinearCheck[8]=originalMap[(i*3)+2][(j*3)+2];
-			
+
 			for(int m;m<8;m++){
 				for(int n=m+1;n<9;n++){
 					if(tempSudokuLinearCheck[m]>tempSudokuLinearCheck[n]){
@@ -404,7 +404,7 @@ int checkSudoku() { //Function that checks if the sudoku is suitable to the rule
 			}
 		}
 	}
-	
+
 	printf("Vertical Check: ");
 	if(vertical==1)
 		printf("FAIL");
@@ -449,7 +449,7 @@ int main(int argc, char* argv[]) {
 July 1, 2020
 ```c
 #define _CRT_SECURE_NO_WARNINGS
-#include <stdio.h> 
+#include <stdio.h>
 #include <conio.h>
 
 #define row 9
@@ -958,3 +958,6 @@ Need farther inspection on IDEs (Xcode, VS)
 ## Day 4
 ### Error when inputting blank on the last digit of each row
 When the sudoku has the last digit of each row blank, it does not detect it has a valid char.
+
+# Conclusion
+First part of the project has been finished. Although there are some know bugs, the program can solve and check if they are correctly solved on its own. The next part of the project will be resolving the bugs that are found and making the software more advanced so that it can solve more complex sudokus.
