@@ -20,15 +20,15 @@ tags:
 <table border="1">
 	<tr><!-- 첫번째 줄 시작 -->
 	    <td>CPU</td>
-	    <td>2.4 GHz Quad Core Intel Core i5</td>
+	    <td><b>2.4 GHz Quad Core</b> Intel Core i5</td>
 	</tr><!-- 첫번째 줄 끝 -->
   <tr><!-- 두번째 줄 시작 -->
 	    <td>RAM</td>
-	    <td>16GB 2133 MHz LPDDR3</td>
+	    <td><b>16GB</b> 2133 MHz LPDDR3</td>
 	</tr><!-- 두번째 줄 끝 -->
 	<tr><!-- 두번째 줄 시작 -->
 	    <td>GPU</td>
-	    <td>Intel Iris Plus Graphics 655 1536 MB</td>
+	    <td><b>Intel Iris Plus Graphics 655</b> 1536 MB</td>
 	</tr><!-- 두번째 줄 끝 -->
 	<tr><!-- 두번째 줄 시작 -->
 	    <td>Ports</td>
@@ -36,15 +36,15 @@ tags:
 	</tr><!-- 두번째 줄 끝 -->
 	<tr><!-- 두번째 줄 시작 -->
 	    <td>Storage</td>
-	    <td>512 GB Apple SSD</td>
+	    <td><b>512 GB</b> Apple SSD</td>
 	</tr><!-- 두번째 줄 끝 -->
 	<tr><!-- 두번째 줄 시작 -->
 	    <td>Screen Size</td>
-	    <td>13.3" Retina Display</td>
+	    <td><b>13.3" Retina</b> Display</td>
 	</tr><!-- 두번째 줄 끝 -->
 	<tr><!-- 두번째 줄 시작 -->
 	    <td>Colour</td>
-	    <td>Space Gray</td>
+	    <td><b>Space Gray</b></td>
 	</tr><!-- 두번째 줄 끝 -->
 </table>
 
