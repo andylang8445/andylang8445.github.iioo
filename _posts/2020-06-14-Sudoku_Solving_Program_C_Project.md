@@ -4,7 +4,7 @@ date:   2020-06-22 01:43:40
 categories:
 - Programming
 - 2020 Project
-- On-going Project
+- Finished Project
 - TIL
 tags:
 - C
