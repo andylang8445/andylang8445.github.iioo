@@ -24,6 +24,7 @@ The ultimate goal of this project is being able to emulate the video card from s
 # Programming
 
 ## Day 1
+<li>
 <a onclick = "this.nextSibling.style.display=(this.nextSibling.style.display=='none')?'block':'none';" href = "javascript:void(0)">
 View Code
 </a><div style = "DISPLAY : none">
@@ -94,6 +95,7 @@ int main(int argc, const char * argv[]) {
 }
 ```
 </div>
+</li>
 
 <a onclick = "this.nextSibling.style.display=(this.nextSibling.style.display=='none')?'block':'none';" href = "javascript:void(0)">
     Canadian School Life
