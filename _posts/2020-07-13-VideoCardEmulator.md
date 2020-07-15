@@ -95,6 +95,31 @@ int main(int argc, const char * argv[]) {
 ```
 </div>
 
+<a onclick = "this.nextSibling.style.display=(this.nextSibling.style.display=='none')?'block':'none';" href = "javascript:void(0)">
+    Canadian School Life
+</a><div style = "DISPLAY : none">
+  <ul>
+    <li>
+      <a onclick = "this.nextSibling.style.display=(this.nextSibling.style.display=='none')?'block':'none';" href = "javascript:void(0)">
+          Grade 11
+      </a><div style = "DISPLAY : none">
+        <ul>
+          <li><a href = "https://andylang8445.github.io/school%20life/school%20class/school_grade11/2019/04/02/G11_Math/">Grade 11U Math(MCR3U)</a></li>
+        </ul>
+      </div>
+    </li>
+    <li>
+      <a onclick = "this.nextSibling.style.display=(this.nextSibling.style.display=='none')?'block':'none';" href = "javascript:void(0)">
+          Grade 12
+      </a><div style = "DISPLAY : none">
+        <ul>
+          <li><a href = "">Grade 12U Computer Programming(ICS4UI)</a></li>
+        </ul>
+      </div>
+    </li>
+    <!--번외 : fast io-->
+  </ul>
+</div>
 
 # Problems, Bugs and Errors
 ## Identifier
