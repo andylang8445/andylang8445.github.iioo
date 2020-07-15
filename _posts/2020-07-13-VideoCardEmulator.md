@@ -24,11 +24,14 @@ The ultimate goal of this project is being able to emulate the video card from s
 # Programming
 
 ## Day 1
+<div>
 <a onclick = "this.nextSibling.style.display=(this.nextSibling.style.display=='none')?'block':'none';" href = "javascript:void(0)">
 <b>View Code</b>
 </a><div style = "DISPLAY : none">
 <script src="https://gist.github.com/andylang8445/c8acf059b1351aafb07407002f3bdae2.js"></script>
 </div>
+</div>
+Source Code Written on <b>July 14th, 2020</b> on MacBook Pro 13" 2019, macOS 10.15.5 using <b>Xcode</b>
 
 # Problems, Bugs and Errors
 ## Identifier
