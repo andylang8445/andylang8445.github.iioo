@@ -24,13 +24,11 @@ The ultimate goal of this project is being able to emulate the video card from s
 # Programming
 
 ## Day 1
-<li>
 <a onclick = "this.nextSibling.style.display=(this.nextSibling.style.display=='none')?'block':'none';" href = "javascript:void(0)">
-View Code
+<b>View Code</b>
 </a><div style = "DISPLAY : none">
 <script src="https://gist.github.com/andylang8445/c8acf059b1351aafb07407002f3bdae2.js"></script>
 </div>
-</li>
 
 # Problems, Bugs and Errors
 ## Identifier
