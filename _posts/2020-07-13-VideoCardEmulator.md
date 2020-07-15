@@ -22,8 +22,10 @@ tags:
 The ultimate goal of this project is being able to emulate the video card from scratch (from creation of pulse generator to displaying the image file)
 
 # Programming
-<a onclick = "this.nextSibling.style.display=(this.nextSibling.style.display=='none')?'block':'none';" href = "javascript:void(0)">
+
 ## Day 1
+<a onclick = "this.nextSibling.style.display=(this.nextSibling.style.display=='none')?'block':'none';" href = "javascript:void(0)">
+View Code
 </a><div style = "DISPLAY : none">
 ```c
 //
