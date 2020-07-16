@@ -46,8 +46,8 @@ One possible solution for 10MHz P.G. problem is using multi-thread processing. M
 
 # Resources
 ## Written Resources
-* <a href="https://doorbw.tistory.com/27">https://doorbw.tistory.com/27</a>
-* <a href="https://m.blog.naver.com/three_letter/220333796848">https://m.blog.naver.com/three_letter/220333796848</a>
+* <a href="https://doorbw.tistory.com/27" target="_blank">https://doorbw.tistory.com/27</a>
+* <a href="https://m.blog.naver.com/three_letter/220333796848" target="_blank">https://m.blog.naver.com/three_letter/220333796848</a>
 ## Video Resources
-* <a href="https://www.youtube.com/watch?v=l7rce6IQDWs">Part 1</a>
-* <a href="https://www.youtube.com/watch?v=uqY3FMuMuRo">Part 2</a>
+* <a href="https://www.youtube.com/watch?v=l7rce6IQDWs" target="_blank">>Part 1</a>
+* <a href="https://www.youtube.com/watch?v=uqY3FMuMuRo" target="_blank">>Part 2</a>
