@@ -20,6 +20,11 @@ tags:
 # Planning
 ## Goal of the project
 The ultimate goal of this project is being able to emulate the video card from scratch (from creation of pulse generator to displaying the image file)
+## Basic Logic inside the Loop
+1. Create threads for all tasks that has to happen when each clock pulse is generated
+2. Run pulse generator on main thread
+3. Assign tasks to the threads
+4. Wait for all threads to finish
 
 # Programming
 
