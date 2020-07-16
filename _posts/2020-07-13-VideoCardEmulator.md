@@ -45,5 +45,9 @@ For this project, 10MHz pulse generator is needed for setting the correct timing
 One possible solution for 10MHz P.G. problem is using multi-thread processing. Multi-thread processing is the method that allows multiple processes to run on the same time. By using this, We can process multiple tasks for each pulse much faster and efficiently.
 
 # Resources
+## Written Resources
+* https://doorbw.tistory.com/27
+* https://m.blog.naver.com/three_letter/220333796848
+## Video Resources
 * https://www.youtube.com/watch?v=l7rce6IQDWs
 * https://www.youtube.com/watch?v=uqY3FMuMuRo
