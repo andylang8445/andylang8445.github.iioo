@@ -30,13 +30,26 @@ The ultimate goal of this project is being able to emulate the video card from s
 
 ## Day 1
 <div>
-<a onclick = "this.nextSibling.style.display=(this.nextSibling.style.display=='none')?'block':'none';" href = "javascript:void(0)">
-<b>View Code</b>
-</a><div style = "DISPLAY : none">
-<script src="https://gist.github.com/andylang8445/c8acf059b1351aafb07407002f3bdae2.js"></script>
-</div>
+    <a onclick="this.nextSibling.style.display=(this.nextSibling.style.display=='none')?'block':'none';" href="javascript:void(0)">
+        <b>View Code</b>
+    </a>
+    <div style="DISPLAY : none">
+        <script src="https://gist.github.com/andylang8445/c8acf059b1351aafb07407002f3bdae2.js"></script>
+    </div>
 </div>
 Source Code Written on <b>July 14th, 2020</b> on MacBook Pro 13" 2019, macOS 10.15.5 using <b>Xcode</b>
+
+## Day 2
+<div>
+    <a onclick="this.nextSibling.style.display=(this.nextSibling.style.display=='none')?'block':'none';" href="javascript:void(0)">
+        <b>View Code</b>
+    </a>
+    <div style="DISPLAY : none">
+        <script src="https://gist.github.com/andylang8445/8a627428e9e411ae32c08fa076c47070.js"></script>
+    </div>
+</div>
+This Code is made to study Multithreading in c using pthread header.<br>
+Source Code Written on <b>July 16th, 2020</b> on MacBook Pro 13" 2019, macOS 10.15.6 using <b>Xcode</b>
 
 # Problems, Bugs and Errors
 ## Identifier
