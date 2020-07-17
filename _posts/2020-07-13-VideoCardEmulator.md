@@ -46,7 +46,7 @@ Source Code Written on <b>July 14th, 2020</b> on MacBook Pro 13" 2019, macOS 10.
 <script src="https://gist.github.com/andylang8445/8a627428e9e411ae32c08fa076c47070.js"></script>
 </div>
 </div>
-This Code is made to study Multithreading in c using pthread header.<br>
+This Code is made to study <b>Multithreading</b>b> in C language using pthread header.<br>
 Source Code Written on <b>July 16th, 2020</b> on MacBook Pro 13" 2019, macOS 10.15.6 using <b>Xcode</b>
 
 # Problems, Bugs and Errors
