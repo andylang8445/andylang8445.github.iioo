@@ -16,4 +16,4 @@ tags:
 * The goal of this project is to create the program that provides relationship between two vectors in 3D(R3 Plane)
 
 # Planing
-## Funcrnios
+## Functions
