@@ -17,3 +17,6 @@ tags:
 
 # Planing
 ## Functions
+* Multiple types of input type
+* Determine if two vectors are equal, parallel or has POI in common
+* Calculate the angle between two 3D vectors
