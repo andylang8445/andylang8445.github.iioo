@@ -41,3 +41,7 @@ tags:
 <script src="https://gist.github.com/andylang8445/16a996dcd0a2957de5fbfe3327f8b437.js"></script>
 ## Day 4 (The Final Version)
 <script src="https://gist.github.com/andylang8445/cece255ee083281d4dadaf7e47d15d58.js"></script>
+
+# What I learned from this Project
+* Using multiple layers of data structures
+* Creating a standard formula which can be useful for calculating 3D vectors
