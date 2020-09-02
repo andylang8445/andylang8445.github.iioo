@@ -41,6 +41,7 @@ tags:
 <script src="https://gist.github.com/andylang8445/16a996dcd0a2957de5fbfe3327f8b437.js"></script>
 ## Day 4 (The Final Version)
 <script src="https://gist.github.com/andylang8445/cece255ee083281d4dadaf7e47d15d58.js"></script>
+<br>The project was done from <b>25th of July</b> to <b>28th of July</b> in 2020
 
 # What I learned from this Project
 * Using multiple layers of data structures
