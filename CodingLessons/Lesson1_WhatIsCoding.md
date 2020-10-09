@@ -1,6 +1,5 @@
 ---
 layout: post
-type: article
 title:  "[TEST] posting test"
 date:   2020-10-11 16:04:00
 categories:
