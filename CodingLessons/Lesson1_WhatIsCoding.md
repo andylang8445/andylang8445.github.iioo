@@ -13,9 +13,13 @@ tags:
 # Overview
 * Coding is an effective way to communicate with computing devices
 
-# Coding?
-## Something
-* Something Detail
+# Coding and Programming
+## Definition from Dictionary
+* Coding: [noun] the process of assigning a code to something for the purposes of classification or identification.
+* Programming: [noun] the action or process of writing computer programs.
+## So, what's the difference?
+* Coding is basically indicating the process of typing the programming languages to write a software.
+* Programming is the whole process of the software development, from designing the structures of a software to finding and fixing bugs after the coding process.
 
 ## How to make computers do stuff
 <pre>
