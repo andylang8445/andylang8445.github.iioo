@@ -11,6 +11,7 @@ tags:
 - Algorithm
 - Grade 13
 - Learn Programming
+- Computer Science
 ---
 # Overview
 * Introduction to programming
