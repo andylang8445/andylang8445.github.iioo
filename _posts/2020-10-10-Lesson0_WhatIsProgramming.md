@@ -25,7 +25,7 @@ tags:
 
 # How to make computers do stuff
 ## Coding
-* Coding 
+* Coding is basically writing a document with the instructions that the computer should follow.
 <pre>
 1. Start
 2. Do weird stuff
