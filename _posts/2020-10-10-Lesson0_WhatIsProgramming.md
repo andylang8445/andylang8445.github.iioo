@@ -19,6 +19,7 @@ tags:
 ## Definition from Dictionary
 * Coding: [noun] the process of assigning a code to something for the purposes of classification or identification.
 * Programming: [noun] the action or process of writing computer programs.
+
 ## So, what's the difference?
 * Coding is basically indicating the process of typing the programming languages to write a software.
 * Programming is the whole process of the software development, from designing the structures of a software to finding and fixing bugs after the coding process.
@@ -54,8 +55,10 @@ tags:
 8. Can I make my code simpler?
 9. Introduction to algorithm
 More things will be determined in the future
+
 ## Which programming language we will be using?
 * We will use <p>C</p> as the programming language
+
 ### Why don't we use Python or JAVA?
 * Those languages are really popular and easy to learn (Python)
 * There are several reasons I am not using those emerging programming languages
@@ -69,5 +72,6 @@ More things will be determined in the future
 1. Coding and Programming are similar, but somewhat different things
 2. There are many things going on behind the scene, but you only have to know certain things for now
 3. We will be using C as our main programming language for the lessons
+
 ## So what will happen now?
 * Since I am a secondary school student, I cannot upload munch of these documents every day. I will try to upload the future lessons as soon as possible. My goal is to upload <b>one or two lesson every week</b>.
