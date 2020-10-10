@@ -24,6 +24,7 @@ tags:
 * Coding is basically indicating the process of typing the programming languages to write a software.
 * Programming is the whole process of the software development, from designing the structures of a software to finding and fixing bugs after the coding process.
 
+
 # How to make computers do stuff
 ## Coding
 * Coding is basically writing a document with the instructions that the computer should follow.
@@ -66,6 +67,7 @@ More things will be determined in the future
   - Second, Check this <a href="https://www.tiobe.com/tiobe-index/">Link</a>. C is old, but still a very popular programming language. You can have better understanding on how a computer works, has a lot of freedom (Can do what ever you want, which can be dangerous as well), and have simple structure (At least for now
   - Third, program made with C language can run on most of the devices, such as microwave, dish washer, smart home devices, or even on your digitalized alarm clock. This is possible because C only required a super low computing power (It is pretty obvious if you think about computers from 48 years ago. Modern phone chargers has higher computing power than the Apollo Guidance Computer used for landing on the moon)
   - Finally, I have been using C language for the longest time amongst other programming languages.
+
 
 # Conclusion
 ## Summary of what I have said here
