@@ -58,7 +58,7 @@ tags:
 More things will be determined in the future
 
 ## Which programming language we will be using?
-* We will use <p>C</p> as the programming language
+* We will use <b>C</b> as the programming language
 
 ### Why don't we use Python or JAVA?
 * Those languages are really popular and easy to learn (Python)
