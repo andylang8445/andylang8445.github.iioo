@@ -13,7 +13,7 @@ tags:
 - Learn Programming
 ---
 # Overview
-* Coding is an effective way to communicate with computing devices
+* Introduction to programming
 
 # Coding and Programming
 ## Definition from Dictionary
