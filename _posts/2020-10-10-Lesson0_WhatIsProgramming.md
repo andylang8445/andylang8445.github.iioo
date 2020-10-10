@@ -1,6 +1,6 @@
 ---
 title:  "Lesson 0. What is Programming?"
-date:   2020-10-10 16:04:00
+date:   2020-10-10 02:58:00
 categories:
 - Learn Programming
 - Programming
