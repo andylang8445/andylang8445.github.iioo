@@ -23,7 +23,9 @@ tags:
 * Coding is basically indicating the process of typing the programming languages to write a software.
 * Programming is the whole process of the software development, from designing the structures of a software to finding and fixing bugs after the coding process.
 
-## How to make computers do stuff
+# How to make computers do stuff
+## Coding
+* Coding 
 <pre>
 1. Start
 2. Do weird stuff
