@@ -50,32 +50,28 @@ tags:
 0. Introduction to Coding/Programming
 1. What do I need to start Programming?
 2. What are difficulties that most people face?
-3. Getting Input and Displaying something
-4. Making program to do things differently in different conditions
-5. Repeating things
-6. Quiz
-7. Can I make my code simpler?
-8. Introduction to algorithm
+3. Basic structure of the program
+4. Getting Input and Displaying something
+5. Making program to do things differently in different conditions
+6. Repeating things
+7. Quiz
+8. Can I make my code simpler?
+9. Introduction to algorithm
 More things will be determined in the future
-
-# Code Example
-## Sample Code 1
-<div>
-<a onclick = "this.nextSibling.style.display=(this.nextSibling.style.display=='none')?'block':'none';" href = "javascript:void(0)">
-<b>View Code</b>
-</a><div style = "DISPLAY : none">
-<script src="https://gist.github.com/andylang8445/af9ee066867631a1bc02cbe8b73493ee.js"></script>
-</div>
-</div>
-## Sample Code 2
-<div>
-<a onclick = "this.nextSibling.style.display=(this.nextSibling.style.display=='none')?'block':'none';" href = "javascript:void(0)">
-<b>View Code</b>
-</a><div style = "DISPLAY : none">
-<script src="https://gist.github.com/andylang8445/bb6da1b47954f05d75449bc5f9b2c912.js"></script>
-</div>
-</div>
-<br>The project was done from <b>25th of July</b> to <b>28th of July</b> in 2020
+## Which programming language we will be using?
+* We will use <p>C</p> as the programming language
+### Why don't we use Python or JAVA?
+* Those languages are really popular and easy to learn (Python)
+* There are several reasons I am not using those emerging programming languages
+  - First, although C is almost 48 years old, it is still one of the fastest programming language in the world (The program can do same thing with much shorter time). Actually, C is a common programming language to use when programmers are developing operating systems, IoT devices, or even when developing a new programming language.
+  - Second, Check this <a href="https://www.tiobe.com/tiobe-index/">Link</a>. C is old, but still a very popular programming language. You can have better understanding on how a computer works, has a lot of freedom (Can do what ever you want, which can be dangerous as well), and have simple structure (At least for now
+  - Third, program made with C language can run on most of the devices, such as microwave, dish washer, smart home devices, or even on your digitalized alarm clock. This is possible because C only required a super low computing power (It is pretty obvious if you think about computers from 48 years ago. Modern phone chargers has higher computing power than the Apollo Guidance Computer used for landing on the moon)
+  - Finally, I have been using C language for the longest time amongst other programming languages.
 
 # Conclusion
-* Random Stuff
+## Summary of what I have said here
+1. Coding and Programming are similar, but somewhat different things
+2. There are many things going on behind the scene, but you only have to know certain things for now
+3. We will be using C as our main programming language for the lessons
+## So what will happen now?
+* Since I am a secondary school student, I cannot upload munch of these documents every day. I will try to upload the future lessons as soon as possible. My goal is to upload <b>one or two lesson every week</b>.
