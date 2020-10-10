@@ -1,5 +1,5 @@
 ---
-title:  "Lesson 1. What is Coding?"
+title:  "Lesson 1. What is Programming?"
 date:   2020-10-10 16:04:00
 categories:
 - Programming
