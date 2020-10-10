@@ -27,7 +27,6 @@ tags:
 ## Coding
 * Coding is basically writing a document with the instructions that the computer should follow.
 * What really happens behind the scene:
-<pre>
 1. A programmer writes code in programming language (with proper grammar for that specific programming language)
 2. The programmer compiles or run the program he/she wrote
 3. Computer (IDE) checks if there is any errors, warnings, or potential errors in the code.
@@ -36,13 +35,10 @@ tags:
 5. The program gets loaded to RAM (Random Access Memory, which has about 8~32GB capacity in typical computers nowadays)
 7. CPU (sometimes GPU) runs the program and constantly interact with RAM during the process
 8. When the program is terminated, stopped working due to the errors, or finished the work assigned CPU stops the program and offload the datas from RAM so it can work on the new task
-</pre>
 * It seems pretty complicated, but only things that matters to you(learning the basic level of programming)
-<pre>
 1. Choose appropriate IDE and programming language for the purpose
 2. Always read the error messages or warning signs appear on the screen
 3. If you think that you did everything write, press compile(or run) on the IDE to order you computer to run your program
-</pre>
 
 
 # So, what are you going to teach me?
