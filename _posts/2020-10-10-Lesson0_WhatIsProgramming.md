@@ -38,7 +38,8 @@ tags:
   7. CPU (sometimes GPU) runs the program and constantly interact with RAM during the process
   8. When the program is terminated, stopped working due to the errors, or finished the work assigned CPU stops the program and offload the datas from RAM so it can work on the new task
 
-### It seems pretty complicated, but only things that matters to you(learning the basic level of programming)
+### It seems pretty complicated.
+* Only things that matters to you(learning the basic level of programming)
 1. Choose appropriate IDE and programming language for the purpose
 2. Always read the error messages or warning signs appear on the screen
 3. If you think that you did everything write, press compile(or run) on the IDE to order you computer to run your program
