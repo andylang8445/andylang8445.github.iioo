@@ -2,6 +2,7 @@
 title:  "Lesson 0. What is Programming?"
 date:   2020-10-10 16:04:00
 categories:
+- Learn Programming
 - Programming
 - 2020 Programming
 tags:
@@ -9,6 +10,7 @@ tags:
 - Xcode
 - Algorithm
 - Grade 13
+- Learn Programming
 ---
 # Overview
 * Coding is an effective way to communicate with computing devices
