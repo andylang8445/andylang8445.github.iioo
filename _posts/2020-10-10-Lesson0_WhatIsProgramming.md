@@ -17,12 +17,12 @@ tags:
 
 # Coding and Programming
 ## Definition from Dictionary
-* Coding: [noun] the process of assigning a code to something for the purposes of classification or identification.
-* Programming: [noun] the action or process of writing computer programs.
+* <b>Coding</b>: [noun] the process of assigning a code to something for the purposes of classification or identification.
+* <b>Programming</b>: [noun] the action or process of writing computer programs.
 
 ## So, what's the difference?
-* Coding is basically indicating the process of typing the programming languages to write a software.
-* Programming is the whole process of the software development, from designing the structures of a software to finding and fixing bugs after the coding process.
+* <b>Coding</b> is basically indicating the process of <b>typing the programming languages</b> to write a software.
+* <b>Programming</b> is the <b>most of the process of the software development</b>, from designing the structures of a software to finding and fixing bugs after the coding process.
 
 
 # How to make computers do stuff
