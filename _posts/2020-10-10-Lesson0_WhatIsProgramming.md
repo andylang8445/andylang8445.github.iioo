@@ -28,7 +28,7 @@ tags:
 # How to make computers do stuff
 ## Coding
 * Coding is basically writing a document with the instructions that the computer should follow.
-* What really happens behind the scene:
+### What really happens behind the scene:
   1. A programmer writes code in programming language (with proper grammar for that specific programming language)
   2. The programmer compiles or run the program he/she wrote
   3. Computer (IDE) checks if there is any errors, warnings, or potential errors in the code.
@@ -37,7 +37,7 @@ tags:
   5. The program gets loaded to RAM (Random Access Memory, which has about 8~32GB capacity in typical computers nowadays)
   7. CPU (sometimes GPU) runs the program and constantly interact with RAM during the process
   8. When the program is terminated, stopped working due to the errors, or finished the work assigned CPU stops the program and offload the datas from RAM so it can work on the new task
-* It seems pretty complicated, but only things that matters to you(learning the basic level of programming)
+### It seems pretty complicated, but only things that matters to you(learning the basic level of programming)
 1. Choose appropriate IDE and programming language for the purpose
 2. Always read the error messages or warning signs appear on the screen
 3. If you think that you did everything write, press compile(or run) on the IDE to order you computer to run your program
@@ -63,10 +63,10 @@ More things will be determined in the future
 ### Why don't we use Python or JAVA?
 * Those languages are really popular and easy to learn (Python)
 * There are several reasons I am not using those emerging programming languages
-  - First, although C is almost 48 years old, it is still one of the fastest programming language in the world (The program can do same thing with much shorter time). Actually, C is a common programming language to use when programmers are developing operating systems, IoT devices, or even when developing a new programming language.
-  - Second, Check this <a href="https://www.tiobe.com/tiobe-index/">Link</a>. C is old, but still a very popular programming language. You can have better understanding on how a computer works, has a lot of freedom (Can do what ever you want, which can be dangerous as well), and have simple structure (At least for now
-  - Third, program made with C language can run on most of the devices, such as microwave, dish washer, smart home devices, or even on your digitalized alarm clock. This is possible because C only required a super low computing power (It is pretty obvious if you think about computers from 48 years ago. Modern phone chargers has higher computing power than the Apollo Guidance Computer used for landing on the moon)
-  - Finally, I have been using C language for the longest time amongst other programming languages.
+  - <b>First</b>, although C is almost 48 years old, it is still one of the fastest programming language in the world (The program can do same thing with much shorter time). Actually, C is a common programming language to use when programmers are developing operating systems, IoT devices, or even when developing a new programming language.
+  - <b>Second</b>, Check this <a href="https://www.tiobe.com/tiobe-index/">Link</a>. C is old, but still a very popular programming language. You can have better understanding on how a computer works, has a lot of freedom (Can do what ever you want, which can be dangerous as well), and have simple structure (At least for now
+  - <b>Third</b>, program made with C language can run on most of the devices, such as microwave, dish washer, smart home devices, or even on your digitalized alarm clock. This is possible because C only required a super low computing power (It is pretty obvious if you think about computers from 48 years ago. Modern phone chargers has higher computing power than the Apollo Guidance Computer used for landing on the moon)
+  - <b>Finally</b>, I have been using C language for the longest time amongst other programming languages.
 
 
 # Conclusion
