@@ -1,6 +1,6 @@
 ---
-title:  "Lesson 0. What is Programming?"
-date:   2020-10-10 02:58:00
+title:  "Lesson 1. Setting up the IDE"
+date:   2020-10-17 02:58:00
 categories:
 - Learn Programming
 - Programming
