@@ -20,7 +20,7 @@ tags:
 ## Windows
 * **Visual Studio**
 * **DEV C++**
-* **CODE BLOCKS**
+* **CODE::BLOCKS**
 
 ## macOS
 * **XCODE**
@@ -28,4 +28,8 @@ tags:
 
 # What IDE should I choose?
 ## If you are using Windows
-* 
+* **Visual Studio** will senerally be the most general thing to choose. However, it uses some sort of weird custom version of **C/C++** language so that there are some modifications you have to make it function as expected. Still, it has the powerful 
+* If you are just starting coding, **DEV C++** is recommanded to start from. It requires much less storage on your computer, and it is good to not have the auto-complete function what you are learning how to code.
+* In some coding competitions, **CODE::BLOCKS** is the designated IDE you can use. It allows the users to install their own Compiler. It also has same properties of DEV-C++. Among three IDEs, it is the only one that supports **C**, instead of **C++** officially.
+## If you have an Apple device
+* **XCODE** is the best IDE you can choose in most cases. 
