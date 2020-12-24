@@ -79,4 +79,4 @@ More things will be determined in the future
 3. We will be using C as our main programming language for the lessons
 
 ## So what will happen now?
-* Since I am a secondary school student, I cannot upload munch of these documents every day. I will try to upload the future lessons as soon as possible. My goal is to upload <b>one or two lesson every week</b>.
+* Since I am a secondary school student, I cannot upload munch of these documents every day. I will try to upload the future lessons as soon as possible.
