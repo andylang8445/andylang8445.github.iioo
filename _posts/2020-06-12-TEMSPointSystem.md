@@ -100,6 +100,7 @@ Server used to load logos and design factors that are in svg, jpeg, and png form
 * Moved to a free service, <a href="https://imgur.com">imgur</a>
 
 # Resolved Issues
+
 ## Database Sync
 ### Q: Unable to reduce the load on DB
 While using db on online platform, load on db server is one of the concern; since the fees are calculated accordingly to number of operation, and just loading the webpage requires less load on db than changing the data on it.
@@ -110,11 +111,9 @@ I have resolved this issue by using <b>NodeJS Server</b> in between db server an
     - Since you can register NodeJS's static ip to the white list of db server, we can prevent unapropreate access to it.
 * Much less server fee
     - Generally NodeJS server's fee is cheaper than db server.
+
 ## Choosing the hosting Platform
 ### AWS and Google Cloud Platform
 These two would be the most representative and major service providers in the market you can access to. AWS generally has cheaper plans, but Google Cloud Platform provides better user experience from its console.
 #### Recommandation
-The way I programmed server was via CLI (macOS terminal) and all the coding part was done on macOS. So, the UX difference was not a critical issue for me. However, I recommand trying 
-
-# Wrapping Up The Project
-
+The way I programmed server was via CLI (macOS terminal) and all the coding part was done on macOS. So, the UX difference was not a critical issue for me. However, I recommand try using GCP first, since for new users they provide $300 credit and you can use it to setup mySQL server. In contrast, AWS provides some promotions on servers, but mySQL was not included to the deal when I researched for it. <b>Use AWS for Web Server(Ubuntu) and NodeJS Server(CentOS 7)</b> and <b>Google Cloud Platform for DB Server</b>
