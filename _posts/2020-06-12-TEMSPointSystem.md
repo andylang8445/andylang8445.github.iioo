@@ -100,7 +100,7 @@ Server used to load logos and design factors that are in svg, jpeg, and png form
 * Moved to a free service, <a href="https://imgur.com">imgur</a>
 <hr>
 
-# Resolved Issues
+# Issues
 
 ## Database Sync
 ### Q: Unable to reduce the load on DB
