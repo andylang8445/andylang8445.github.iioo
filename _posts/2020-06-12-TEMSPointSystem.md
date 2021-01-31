@@ -98,6 +98,7 @@ Server used for storing up-to-date student point status and storing tutors' logi
 Server used to load logos and design factors that are in svg, jpeg, and png form
 * Initially used on Google Cloud Platform
 * Moved to a free service, <a href="https://imgur.com">imgur</a>
+<hr>
 
 # Resolved Issues
 
