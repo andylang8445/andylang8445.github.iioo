@@ -20,3 +20,4 @@ tags:
 I will be using XCODE 12.4 on macOS 11.2.3, running on intel-based MacBook Pro 13 inch 2019. Due to the odd nature of visual studio's C compiler, some codes might not work on them. I highly recommend using online IDE using gcc compiler.
 
 # Start to code
+<img width="486" alt="Screen Shot 2021-03-11 at 6 29 56 PM" src="https://user-images.githubusercontent.com/46326335/110869105-c9aa8400-8297-11eb-9935-6e96eb99135d.png">
