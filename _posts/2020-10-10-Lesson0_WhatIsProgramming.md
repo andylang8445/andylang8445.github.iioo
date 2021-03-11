@@ -46,10 +46,10 @@ tags:
 3. If you think that you did everything write, press compile(or run) on the IDE to order you computer to run your program
 
 
-# So, what are you going to teach me?
+# So, what are you going to tell me?
 ## Basic outline
 0. Introduction to Coding/Programming
-1. What do I need to start Programming?
+1. What do I need in order to start Programming?
 2. What are difficulties that most people face?
 3. Basic structure of the program
 4. Getting Input and Displaying something
@@ -58,7 +58,7 @@ tags:
 7. Quiz
 8. Can I make my code simpler?
 9. Introduction to algorithm
-More things will be determined in the future
+More things will be determined in the future <h6>might delete some of these as well</h6>
 
 ## Which programming language we will be using?
 * We will use <b>C</b> as the programming language
