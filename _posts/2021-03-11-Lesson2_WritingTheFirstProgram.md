@@ -32,3 +32,16 @@ After that, name your new project and put Organization Identifier you want (I ha
 ## Start coding
 On the side bar, there will be a file called main.c. If you click on it, you will be able to start coding!
 <img alt="Xcode 3" src="https://user-images.githubusercontent.com/46326335/110877951-4fcec680-82a8-11eb-9272-cf3abba876ef.png">
+
+# Coding
+## What are we going to make our program to do?
+Since this would be the very first writing the C code, we will begin with printing something to the screen.
+## Procedure
+1. Erase everything from the screen
+2. Type ```C
+#include <stdio.h>
+int main() {
+  printf("Very first program I wrote in C!");
+  return 0;
+}
+```
