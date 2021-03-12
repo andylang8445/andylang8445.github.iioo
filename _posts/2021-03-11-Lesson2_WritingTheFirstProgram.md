@@ -1,6 +1,6 @@
 ---
 title:  "Lesson 2. Writing The First Program"
-date:   2021-03-11 20:58:00
+date:   2021-03-11 21:42:00
 categories:
 - Learn Programming
 - Programming
