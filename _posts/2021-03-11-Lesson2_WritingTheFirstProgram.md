@@ -38,5 +38,4 @@ On the side bar, there will be a file called main.c. If you click on it, you wil
 Since this would be the very first writing the C code, we will begin with printing something to the screen.
 ## Procedure
 1. Erase everything from the screen
-2. Type
-<script src="https://gist.github.com/andylang8445/a2af574639adfc6a78a45f2e79d93291.js"></script>
+2. Type <script src="https://gist.github.com/andylang8445/a2af574639adfc6a78a45f2e79d93291.js"></script>
