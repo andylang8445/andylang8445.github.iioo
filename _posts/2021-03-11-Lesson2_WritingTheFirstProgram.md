@@ -38,7 +38,8 @@ On the side bar, there will be a file called main.c. If you click on it, you wil
 Since this would be the very first writing the C code, we will begin with printing something to the screen.
 ## Procedure
 1. Erase everything from the screen
-2. Type ```C
+2. Type
+```C
 #include <stdio.h>
 int main() {
   printf("Very first program I wrote in C!");
