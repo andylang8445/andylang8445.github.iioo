@@ -39,10 +39,4 @@ Since this would be the very first writing the C code, we will begin with printi
 ## Procedure
 1. Erase everything from the screen
 2. Type
-```C
-#include <stdio.h>
-int main() {
-  printf("Very first program I wrote in C!");
-  return 0;
-}
-```
+<script src="https://gist.github.com/andylang8445/a2af574639adfc6a78a45f2e79d93291.js"></script>
