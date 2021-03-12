@@ -22,11 +22,11 @@ I will be using Xcode 12.4 on macOS 11.2.3, running on intel-based MacBook Pro 1
 # Start to code
 ## Launch Xcode
 When you launch Xcode, you will see the screen like this:
-<img width="486" alt="Screen Shot 2021-03-11 at 6 29 56 PM" src="https://user-images.githubusercontent.com/46326335/110869105-c9aa8400-8297-11eb-9935-6e96eb99135d.png">
+<img width="486" alt="Xcode 1" src="https://user-images.githubusercontent.com/46326335/110869105-c9aa8400-8297-11eb-9935-6e96eb99135d.png">
 
 ## Create a new Xcode project
 When you press on "Create a new Xcode project", you will be asked to choose the type of the project. There is an option called "Command Line Tool" under macOS tab.
-
+<img alt="Xcode 1" src="https://user-images.githubusercontent.com/46326335/110877785-f6669780-82a7-11eb-8de8-292b6933af18.png">
 After that, name your new project and put Organization Identifier you want (I have it as "Personal"). Also you should select the programming language as C.
 
 ## Start coding
