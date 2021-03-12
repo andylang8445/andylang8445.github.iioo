@@ -27,6 +27,7 @@ When you launch Xcode, you will see the screen like this:
 ## Create a new Xcode project
 When you press on "Create a new Xcode project", you will be asked to choose the type of the project. There is an option called "Command Line Tool" under macOS tab.
 
-After that, name your new project and put Organization Identifier you want (I have it as "Personal").
+After that, name your new project and put Organization Identifier you want (I have it as "Personal"). Also you should select the programming language as C.
 
 ## Start coding
+On the side bar, there will be a file called main.c. If you click on it, you will be able to start coding!
