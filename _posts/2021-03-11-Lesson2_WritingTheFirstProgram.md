@@ -76,3 +76,19 @@ When we stated the main function, we said int main() specifically. <i>int</i> in
 }
 ```
 This line only means that main function's content is over.
+
+# Task
+Try to write a program which prints your name and today's date in separated lines. For example, mine would look like:
+```
+andylang8445
+11 March, 2021
+```
+
+The sample code of mine would be included below
+<div>
+<a onclick = "this.nextSibling.style.display=(this.nextSibling.style.display=='none')?'block':'none';" href = "javascript:void(0)">
+<b><i>View Code</i></b>
+</a><div style = "DISPLAY : none">
+<script src="https://gist.github.com/andylang8445/489fcb6a0e0b922bd5b929e360a660c3.js"></script>
+</div>
+</div>
