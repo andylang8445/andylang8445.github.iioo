@@ -82,9 +82,10 @@ Try to write a program which prints your name and today's date in separated line
 ```
 andylang8445
 11 March, 2021
+Program ended with exit code: 8
 ```
 
-The sample code of mine would be included below
+The sample code of mine would be included below. I recommend trying this on your own and check my answer of mine.
 <div>
 <a onclick = "this.nextSibling.style.display=(this.nextSibling.style.display=='none')?'block':'none';" href = "javascript:void(0)">
 <b><i>View Code</i></b>
