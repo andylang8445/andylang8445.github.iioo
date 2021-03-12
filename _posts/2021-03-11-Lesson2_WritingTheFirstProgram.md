@@ -92,3 +92,6 @@ The sample code of mine would be included below
 <script src="https://gist.github.com/andylang8445/489fcb6a0e0b922bd5b929e360a660c3.js"></script>
 </div>
 </div>
+
+# Next Lesson
+Next Lesson (Lesson 3) will be about input at handling data.
