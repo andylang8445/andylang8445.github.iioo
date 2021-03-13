@@ -63,7 +63,7 @@ This is where you define the <i>main</i> function. It is the function that the c
 ```
 printf("Very first program I wrote in C!\n");
 ```
-<i>printf</i> is the function included in stdio header. This function prints the text inputted to it on the screen. In this case, inputted text will be "Very first program I wrote in C!". You should remember to put the semicolon(;) at the end of each operation, since it is indicating that each command is finished. Lastly, <i>\n</i> will change line in the text.
+`printf` is the function included in stdio header. This function prints the text inputted to it on the screen. In this case, inputted text will be "Very first program I wrote in C!". You should remember to put the semicolon(;) at the end of each operation, since it is indicating that each command is finished. Lastly, <i>`\n`</i> will change line in the text.
 
 ### Fourth line
 ```
