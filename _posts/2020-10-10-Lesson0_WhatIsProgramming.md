@@ -58,7 +58,7 @@ tags:
 7. Quiz
 8. Can I make my code simpler?
 9. Introduction to algorithm
-More things will be determined in the future <h6>might delete some of these as well</h6>
+More things will be determined in the future <i>might delete some of these as well</i>
 
 ## Which programming language we will be using?
 * We will use <b>C</b> as the programming language
