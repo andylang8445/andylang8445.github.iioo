@@ -69,7 +69,7 @@ printf("Very first program I wrote in C!\n");
 ```
 return 0;
 ```
-When we stated the main function, we said int main() specifically. <i>int</i> in the front is telling that the main function's type is integer, meaning there should be an integer return value. In this line of code, we are returning the integer 0 to end the program. return statement in the main function will immediately terminate the program. When you see the output, it will say <i>Program ended with exit code: 0</i> at the end of it. This means the return value of the main function was 0.
+When we stated the main function, we said `int main()` specifically. <i>int</i> in the front is telling that the main function's type is integer, meaning there should be an integer return value. In this line of code, we are returning the integer 0 to end the program. return statement in the main function will immediately terminate the program. When you see the output, it will say <i>Program ended with exit code: 0</i> at the end of it. This means the return value of the main function was 0.
 
 ### Last line
 ```
