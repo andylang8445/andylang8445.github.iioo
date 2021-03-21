@@ -78,7 +78,7 @@ When we stated the main function, we said `int main()` specifically. <i>int</i> 
 This line only means that main function's content is over.
 
 # Task
-Try to write a program which prints your name and today's date in separated lines. For example, mine would look like:
+Try to write a program which prints your name and today's date in separated lines. Also, you are asked to make the exit code as 8. For example, mine would look like:
 ```
 andylang8445
 11 March, 2021
