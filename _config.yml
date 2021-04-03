@@ -4,18 +4,18 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Blog posted by andylang8445
+title: JusticeHui가 PS하는 블로그
 subtitle:
 description:
-author: Hongjun Yun
+author: JusticeHui
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: en
+language: ko
 date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url: 'http://andylang8445.github.io/'
-baseurl: ''
+url: 'https://justiceHui.github.io'
+baseurl: '/'
 permalink: pretty
 
 # Pagination
@@ -105,7 +105,7 @@ copyright: true
 canonical: true
 
 # Change headers hierarchy on site-subtitle (will be main site description) and on all post/pages titles for better SEO-optimization.
-seo: false
+seo: true
 
 # If true, will add site-subtitle to index page, added in jekyll config.
 # subtitle: Subtitle
@@ -115,16 +115,16 @@ index_with_subtitle: false
 # Menu Settings
 # ---------------------------------------------------------------
 
-# When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
+# When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/-> archives)
 menu:
   home: /
-  #categories: /categories/
   about: /about/
   archives: /archives/
+  #categories: /categories/
   tags: /tags/
   categories: /navigator/
-  sitemap: /sitemap_dis/
-  #sitemap: /sitemap.xml
+  teach: /teach/
+  #sitemap: /menual/
   #commonweal: /404.html
 
 
@@ -144,9 +144,7 @@ menu_icons:
   archives: archive
   sitemap: sitemap
   commonweal: heartbeat
-
-
-
+  teach: users
 
 # ---------------------------------------------------------------
 # Scheme Settings
@@ -235,7 +233,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-#avatar:
+avatar: https://avatars3.githubusercontent.com/u/20872857?s=460&u=5f07ac108384e9a63e14269828aaa7a27fa84647&v=4
 
 
 # Table Of Contents in the Sidebar
@@ -364,8 +362,8 @@ highlight_theme: normal
 
 # MathJax Support
 mathjax:
-  enable: false
-  per_page: false
+  enable: true
+  per_page: true
   cdn: //cdn.bootcss.com/mathjax/2.7.1/latest.js?config=TeX-AMS-MML_HTMLorMML
 
 # Han Support docs: https://hanzi.pro/
@@ -382,8 +380,8 @@ han: false
 
 # Disqus
 disqus:
-  enable: false
-  shortname:
+  enable: true
+  shortname: andylang8445
   count: true
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
@@ -408,7 +406,7 @@ wildfire:
   wilddog: # your wilddog config goes here ↓
     siteId:
   # other configs
-  theme: dark # or light
+  theme: light # or dark
   locale: en # or other locales, e.g. zh-CN
   defaultAvatarURL:
 # Any question?
