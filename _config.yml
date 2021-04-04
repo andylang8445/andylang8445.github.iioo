@@ -123,6 +123,7 @@ menu:
   #categories: /categories/
   tags: /tags/
   categories: /navigator/
+  timecapsule: /timecapsule/
   #sitemap: /menual/
   #commonweal: /404.html
 
@@ -143,6 +144,7 @@ menu_icons:
   archives: archive
   sitemap: sitemap
   commonweal: heartbeat
+  timecapsule: egg
 
 # ---------------------------------------------------------------
 # Scheme Settings
