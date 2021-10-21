@@ -10,4 +10,4 @@ type: about
 
 ### Contact
   * <a href="https://www.linkedin.com/in/hongjunyun/">LinkedIn</a>
-  * <a href = "resume.html">Resume (This will open in a new tab)</a>
+  * <a href = "newresume.html">Resume (This will open in a new tab)</a>
