@@ -24,6 +24,7 @@ tags:
 
 ## macOS
 * **Xcode**
+* **CLion**
 
 ## I don't want to install anything
 * **any online IDE**
