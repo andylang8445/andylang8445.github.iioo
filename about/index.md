@@ -9,5 +9,5 @@ type: about
   * Interested in : Algorithm, Software Engineering, Backend Development 
 
 ### Contact
-  * <a href="https://www.linkedin.com/in/hongjunyun/">LinkedIn</a>
-  * <a href = "newresume.html">Resume (This will open in a new tab)</a>
+  * <a href="https://www.linkedin.com/in/hongjunyun/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+  * <a href = "newresume.html" target="_blank" rel="noopener noreferrer">Resume (This will open in a new tab)</a>
