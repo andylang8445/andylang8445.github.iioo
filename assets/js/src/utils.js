@@ -90,7 +90,7 @@ NexT.utils = NexT.$u = {
 
     // Supported Players. Extend this if you need more players.
     var SUPPORTED_PLAYERS = [
-      'www.youtube.com'
+      /((www|beta)\.)?example\.com/
     ];
     var pattern = new RegExp( SUPPORTED_PLAYERS.join('|') );
 
