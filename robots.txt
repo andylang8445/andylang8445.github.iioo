@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Disallow: /timecapsule/
+Disallow: /*/timecapsule/*
+Sitemap: https://andylang8445.github.io/sitemap.xml
